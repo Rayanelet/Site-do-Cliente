@@ -17,6 +17,13 @@ nav{
   display: flex;
   align-items: center;
 }
+
+@media(max-width:992px){
+  nav{
+    align-items: center;
+    justify-content: center;
+  }
+}
 .logo{
   margin-top: 15px;
 }
@@ -46,11 +53,17 @@ nav ul li a{
   color: white;
   text-decoration: none;
 }
-
-.container-header-esquerda a:last-child {
-  margin-right: 0;
-}
-
+ /* Media queries for tablet and desktop devices */
+    @media (min-width: 768px) {
+        .menu-menu-1-container {
+            display: block;
+        }
+        
+        .container-header-esquerda {
+            text-align: right;
+            margin-top: 0;
+        }
+    }
 
 .carousel-inner {
   position: relative;
@@ -118,6 +131,29 @@ nav ul li a{
   margin-top: 20px;
 
 }
+
+  /* Media queries for tablet and desktop devices */
+  @media (min-width: 768px) {
+    .texto {
+        padding: 20px;
+        text-align: left;
+    }
+    
+    .texto h1 {
+        font-size: 32px;
+        margin-bottom: 20px;
+    }
+    
+    .texto p {
+        font-size: 18px;
+        margin-bottom: 20px;
+    }
+    
+    .texto button {
+        font-size: 18px;
+        padding: 12px 24px;
+    }
+  }
 .Tela {
   display: flex;
   justify-content: center;
