@@ -23,6 +23,13 @@ nav{
     align-items: center;
     justify-content: center;
   }
+   @media(mix-width:375px){
+    nav{
+      align-items: center;
+      justify-content: center;
+    }
+  }
+}
 }
 .logo{
   margin-top: 15px;
@@ -63,6 +70,16 @@ nav ul li a{
             text-align: right;
             margin-top: 0;
         }
+          @media (min-width: 375px){
+        .menu-menu-1-container {
+          display: block;
+      }
+      
+      .container-header-esquerda {
+          text-align: right;
+          margin-top: 0;
+      }
+    }
     }
 
 .carousel-inner {
@@ -153,6 +170,28 @@ nav ul li a{
         font-size: 18px;
         padding: 12px 24px;
     }
+     @media (min-width: 375px) {
+      .texto {
+        padding: 20px;
+        text-align: left;
+    }
+    
+    .texto h1 {
+        font-size: 32px;
+        margin-bottom: 20px;
+    }
+    
+    .texto p {
+        font-size: 18px;
+        margin-bottom: 20px;
+    }
+    
+    .texto button {
+        font-size: 18px;
+        padding: 12px 24px;
+    }
+
+  
   }
 .Tela {
   display: flex;
@@ -326,3 +365,6 @@ button {
   text-decoration: none;
   color: #000;
 }
+  }
+}
+
