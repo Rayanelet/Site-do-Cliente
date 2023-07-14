@@ -1,261 +1,129 @@
-*{
+* {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  font-family:Arial, Helvetica, sans-serif;
 }
-body{
+
+body {
   background-color: white;
-  min-height: 100vh;
+  font-family: Arial, Helvetica, sans-serif;
 }
-.container{
+
+.container {
   max-width: 1300px;
   margin: 0 auto;
   padding: 0 4%;
 }
-nav{
+
+nav {
   display: flex;
   align-items: center;
+  padding: 20px 0;
 }
 
-@media(max-width:992px){
-  nav{
-    align-items: center;
-    justify-content: center;
-  }
-   @media(mix-width:375px){
-    nav{
-      align-items: center;
-      justify-content: center;
-    }
-  }
-}
-}
-.logo{
-  margin-top: 15px;
+.logo img {
+  max-width: 100%;
 }
 
-nav ul{
-  display: flex;
+nav ul {
   list-style: none;
-  align-items: center;
-}
-nav ul li{
-  padding: 0 15px;
-}
-nav ul li a{
-  font-size: 16px;
-  color: black;
-}
-.container-header-esquerda {
   display: flex;
   align-items: center;
-  background-color: cornflowerblue;
-  border-radius: 30px;
-  padding: 20px;
+  margin-left: auto;
 }
 
-.container-header-esquerda a {
-  margin-right: 10px;
-  color: white;
+nav ul li {
+  margin-left: 20px;
+}
+
+nav ul li a {
   text-decoration: none;
-}
- /* Media queries for tablet and desktop devices */
-    @media (min-width: 768px) {
-        .menu-menu-1-container {
-            display: block;
-        }
-        
-        .container-header-esquerda {
-            text-align: right;
-            margin-top: 0;
-        }
-          @media (min-width: 375px){
-        .menu-menu-1-container {
-          display: block;
-      }
-      
-      .container-header-esquerda {
-          text-align: right;
-          margin-top: 0;
-      }
-    }
-    }
-
-.carousel-inner {
-  position: relative;
-  margin-top: 30px;
-}
-
-.carousel-item {
-  display: none;
-}
-
-.carousel-item.active {
-  display: block;
+  color: black;
+  font-size: 16px;
 }
 
 .carousel-item img {
+  width: 100%;
+  height: auto;
+}
+
+.texto {
+  text-align: center;
+  margin-top: 50px;
+}
+
+.texto h1 {
+  color: cornflowerblue;
+  margin-bottom: 20px;
+}
+
+.texto p {
+  font-size: 18px;
+  margin-bottom: 20px;
+}
+
+.texto button {
+  background-color: red;
+  color: white;
+  border: none;
+  border-radius: 10px;
+  padding: 15px 30px;
+  cursor: pointer;
+}
+
+.Tela {
+  text-align: center;
+  margin-top: 50px;
+}
+
+.Tela img {
   max-width: 100%;
   height: auto;
 }
 
-.carousel-control-prev,
-.carousel-control-next {
-  position: absolute;
-  top: 50%;
-  transform: translateY(-50%);
-  width: 40px;
-  height: 40px;
-  background-color: rgba(0, 0, 0, 0.5);
-  border-radius: 50%;
-  color: #fff;
+.blog {
   text-align: center;
-  font-size: 24px;
-  line-height: 40px;
-  transition: background-color 0.3s ease;
-  border: none;
-  cursor: pointer;
+  margin-top: 50px;
 }
 
-.carousel-control-prev:hover,
-.carousel-control-next:hover {
-  background-color: rgba(0, 0, 0, 0.7);
-}
-
-.carousel-control-prev {
-  left: 10px;
-}
-
-.carousel-control-next {
-  right: 10px;
-}
-.texto h1{
-  color: cornflowerblue;
-  margin-top: 20px;
-}
-.texto p{
-  margin-left: 500px;
-  margin-top: -58px;
-}
-.texto button{
-  margin-left: 500px;
-  margin-top: -58px;
-  background-color: red;
-  color: white;
-  border-radius: 10px;
-  padding: 18px;
-  margin-top: 20px;
-
-}
-
-  /* Media queries for tablet and desktop devices */
-  @media (min-width: 768px) {
-    .texto {
-        padding: 20px;
-        text-align: left;
-    }
-    
-    .texto h1 {
-        font-size: 32px;
-        margin-bottom: 20px;
-    }
-    
-    .texto p {
-        font-size: 18px;
-        margin-bottom: 20px;
-    }
-    
-    .texto button {
-        font-size: 18px;
-        padding: 12px 24px;
-    }
-     @media (min-width: 375px) {
-      .texto {
-        padding: 20px;
-        text-align: left;
-    }
-    
-    .texto h1 {
-        font-size: 32px;
-        margin-bottom: 20px;
-    }
-    
-    .texto p {
-        font-size: 18px;
-        margin-bottom: 20px;
-    }
-    
-    .texto button {
-        font-size: 18px;
-        padding: 12px 24px;
-    }
-
-  
-  }
-.Tela {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
-
-.Tela img {
-  width: 1500px;
- height: 500px;
- margin-top: 50px;
-}
-.blog h2{
-  text-align: center;
-  margin-top: 30px;
+.blog h2 {
   color: cornflowerblue;
 }
 
-.container.text-center {
-  margin-top: 20px;
-}
-
-.row {
-  display: flex;
+.blog .row {
   justify-content: center;
-  align-items: center;
 }
 
-.col {
-  text-align: center;
+.blog .col {
   margin: 10px;
 }
 
-.col img {
-  width: 100%;
-  max-width: 300px;
+.blog .col img {
+  max-width: 100%;
   height: auto;
+  border-radius: 5px;
 }
 
-h3 {
-  margin-top: 10px;
-}
-a{
-  color: black;
-}
-
-p {
+.blog h3 {
   margin-top: 10px;
 }
 
-button {
+.blog p {
   margin-top: 10px;
-  padding: 10px 20px;
+}
+
+.blog button {
   background-color: red;
-  color:white;
+  color: white;
   border: none;
   border-radius: 5px;
+  padding: 10px 20px;
   cursor: pointer;
 }
 
-
 .Foto {
   text-align: center;
-  margin-top: 20px;
+  margin-top: 50px;
 }
 
 .Foto img {
@@ -265,27 +133,24 @@ button {
 }
 
 .Foto p {
-  margin-top: -80px;
+  margin-top: 10px;
   font-size: 20px;
   color: white;
-  
-
 }
 
 .Foto button {
-  margin-top: -90px;
-  padding: 10px 20px;
-  font-size: 16px;
+  margin-top: 10px;
   background-color: red;
-  color: #fff;
+  color: white;
   border: none;
   border-radius: 5px;
+  padding: 10px 20px;
   cursor: pointer;
 }
 
 .bloco-text-contacts {
-  margin-top: 10px;
   text-align: center;
+  margin-top: 20px;
 }
 
 .bloco-text-contacts a {
@@ -309,36 +174,14 @@ button {
   font-size: 24px;
 }
 
-.panel-grid-cell {
-  padding: 0;
-}
-
-#pg-7-8 iframe {
-  width: 100%;
-  height: 400px;
-  border: 0;
-  display: flex;
-}
-
 .site-footer {
   background-color: rgb(125, 15, 15);
   padding: 20px 0;
+  color: white;
 }
 
 #footer-sidebar1 {
   padding: 0 20px;
-}
-
-.panel-grid-cell > .widget-footer {
-  margin-bottom: 20px;
-}
-
-.widget_footer .panel-layout {
-  margin: 0;
-}
-
-.branco {
-  color: #fff;
 }
 
 .margin0 {
@@ -365,6 +208,14 @@ button {
   text-decoration: none;
   color: #000;
 }
+
+@media (max-width: 768px) {
+  nav ul {
+    flex-direction: column;
+  }
+
+  nav ul li {
+    margin-left: 0;
+    margin-top: 10px;
   }
 }
-
