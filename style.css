@@ -24,14 +24,12 @@ nav {
 .logo img {
   max-width: 100%;
 }
-
 .navbar {
   display: flex;
   align-items: center;
   justify-content: space-between;
   background-color: #f8f9fa;
-  padding: 40px;
-  
+  padding: 10px;
 }
 
 .hamburger {
@@ -41,6 +39,7 @@ nav {
   flex-direction: column;
   justify-content: space-between;
   cursor: pointer;
+  margin-right: 30px; /* Adicionando margem à direita */
 }
 
 .line {
