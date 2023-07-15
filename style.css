@@ -23,6 +23,7 @@ nav {
 
 .logo img {
   max-width: 100%;
+   margin-left:400px;
 }
 .navbar {
   display: flex;
@@ -37,6 +38,7 @@ nav {
   height: 20px;
   display: flex;
   flex-direction: column;
+  justify-content: space-between;
   cursor: pointer;
   margin-right: 10px;/* Adicionando margem à direita */
 }
