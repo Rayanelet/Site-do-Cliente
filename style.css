@@ -39,7 +39,7 @@ nav {
   flex-direction: column;
   justify-content: space-between;
   cursor: pointer;
-  margin-right: 30px; /* Adicionando margem à direita */
+  margin-right: 300px; /* Adicionando margem à direita */
 }
 
 .line {
